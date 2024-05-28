@@ -1,7 +1,7 @@
-# Phigros-versions-history
-A complete list of all phigors versions on android, with the files.
+# Phigros-Android-Versions
+A complete list of all phigros versions on android, with the files.
 
-all versions are from google play, except some ones, soucre unknown. (9,57)
+all versions are from google play, except some ones, source unknown. (9,57)
 
 | versions code available | version | downloaded and ready? |
 |:-:|:-:|:-:|
