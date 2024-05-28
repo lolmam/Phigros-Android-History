@@ -1,7 +1,18 @@
-# Phigros-Android-Versions
-A complete list of all phigros versions on android, with the files.
+# Phigros Android Versions
 
-all versions are from google play, except some ones, source unknown. (9,57)
+**DISCLAIMER: 
+"Phigros" is property of Pigeon Games.
+This Archive is not officially associated with Phigros or Pigeon Games in any way. 
+These APKs and files are provided as-is and by installing them you acknowledge full responsibility for any potential damage to your device.**
+
+##
+
+All versions are from google play, except some versions, source taptap (probably). (9,49,57).
+
+**Notes:**
+1. Vcode (103) is the latest version "10/May/2024"
+2. Package name for Vcode (57) is "com.PigeonGames.Ph214os"
+3. **Unavailable version codes on google play: (0,1,2,3,4,5,6,7,8,10,13,40,50,65,66,67,73,75,76,96)**
 
 | versions code available | version | downloaded and ready? |
 |:-:|:-:|:-:|
@@ -42,13 +53,14 @@ all versions are from google play, except some ones, source unknown. (9,57)
 |46|
 |47| 1.6.8 | yes |
 |48|
+|49| 1.6.10 | yes (taptap ver?) |
 |51|
 |52| 2.0.1 |
 |53|
 |54|
 |55|
 |56|
-|57| 2.1.4 | yes (taptap?), pkname = com.PigeonGames.Ph214os|
+|57| 2.1.4 | yes (taptap ver?) |
 |58|
 |59|
 |60|
@@ -87,13 +99,4 @@ all versions are from google play, except some ones, source unknown. (9,57)
 |100|
 |101|
 |102| 3.6.1 | yes |
-|103 ( 103 ==> latest version 10/May/2024) | 3.6.2 |
-
-
-
-
-
-
-
-
-unavailable (on google play): (0,1,2,3,4,5,6,7,8,10,13,40,49,50,65,66,67,73,75,76,96)
+|103| 3.6.2 |
