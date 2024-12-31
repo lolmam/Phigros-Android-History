@@ -11,7 +11,18 @@
 <th width="70%">Changelog
 </th></tr>
 <tr>
-<th>3.10.2 (119)
+<th>3.10.3 (119)
+</th>
+<td>2024-12-27
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E7%99%BD%E3%81%A8%E9%BB%92%E3%81%AE%E3%83%90%E3%82%B1%E3%83%A2%E3%83%8E" title="白と黒のバケモノ">白と黒のバケモノ</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Devotion" title="Devotion">Devotion</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Kirakira_Noel_Story!!" title="Kirakira Noel Story!!">Kirakira Noel Story!!</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.10.2 (118)
 </th>
 <td>2024-11-29
 </td>
@@ -22,7 +33,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Comet" title="Comet">Comet</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.10.1 ()
+<th>3.10.1 (116)
 </th>
 <td>2024-11-08
 </td>
@@ -33,7 +44,7 @@
 <li>Made modifications to the HD chart of <a href="https://phigros.fandom.com/wiki/Re:End_of_a_Dream" title="Re:End of a Dream">Re:End of a Dream</a> and <a href="https://phigros.fandom.com/wiki/Leave_All_Behind" title="Leave All Behind">Leave All Behind</a> jacket</li></ul>
 </td></tr>
 <tr>
-<th>3.10.0 ()
+<th>3.10.0 (115)
 </th>
 <td>2024-10-18
 </td>
@@ -45,7 +56,7 @@
 <li>Moved <a href="https://phigros.fandom.com/wiki/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84_(Quo_Vadis)" title="君往何处 (Quo Vadis)">君往何处 (Quo Vadis)</a> and <a href="https://phigros.fandom.com/wiki/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92_(REANIMATE)" title="暗夜苏醒 (REANIMATE)">暗夜苏醒 (REANIMATE)</a> to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Rhythm_Master_Collection" title="Songs">Extra - Rhythm Master Collection</a></li></ul>
 </td></tr>
 <tr>
-<th>3.9.1 ()
+<th>3.9.1 (113)
 </th>
 <td>2024-9-20
 </td>
@@ -55,7 +66,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Originally" title="Originally">Originally</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.9.0.1 ()
+<th>3.9.0.1 (112)
 </th>
 <td>2024-9-4
 </td>
@@ -64,7 +75,7 @@
 <li>Fixed bugs</li></ul>
 </td></tr>
 <tr>
-<th>3.9.0 ()
+<th>3.9.0 (111)
 </th>
 <td>2024-8-31
 </td>
@@ -85,7 +96,15 @@
 <li>Adjusted the difficulty of some charts</li></ul>
 </td></tr>
 <tr>
-<th>3.8.1 ()
+<th>3.8.1.1 (110)
+</th>
+<td>2024-08-23
+</td>
+<td>
+<ul><li>Same as 3.8.1</li></ul>
+</td></tr>
+<tr>
+<th>3.8.1 (109)
 </th>
 <td>2024-08-16
 </td>
@@ -96,7 +115,7 @@
 <li>Made modifications to the IN charts of <a href="https://phigros.fandom.com/wiki/Bloom" title="Bloom">Bloom</a>, <a href="https://phigros.fandom.com/wiki/IL-Artifact" title="IL-Artifact">iL-Artifact</a> and <a href="https://phigros.fandom.com/wiki/%E6%98%8E%E9%8F%A1%E7%83%88%E7%81%AB" title="明鏡烈火">明鏡烈火</a></li></ul>
 </td></tr>
 <tr>
-<th>3.8.0 ()
+<th>3.8.0 (108)
 </th>
 <td>2024-07-26
 </td>
@@ -109,7 +128,7 @@
 <ul><li><a href="https://phigros.fandom.com/wiki/Bounded_Quietude" title="Bounded Quietude">Bounded Quietude</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.7.1 ()
+<th>3.7.1 (106)
 </th>
 <td>2024-07-12
 </td>
@@ -118,7 +137,7 @@
 <ul><li><a href="https://phigros.fandom.com/wiki/%E4%BB%8A%E5%A4%A9%E4%B8%8D%E6%98%AF%E6%98%8E%E5%A4%A9" title="今天不是明天">今天不是明天</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.7.0 ()
+<th>3.7.0 (105)
 </th>
 <td>2024-06-28
 </td>
@@ -131,7 +150,7 @@
 <ul><li><a href="https://phigros.fandom.com/wiki/%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB" title="テリトリーバトル">テリトリーバトル</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.6.3 ()
+<th>3.6.3 (104)
 </th>
 <td>2024-5-31
 </td>
@@ -161,9 +180,9 @@
 <li>Removed <a href="https://phigros.fandom.com/wiki/Retribution_~_Cycle_of_Redemption_~" title="Retribution ~ Cycle of Redemption ~">Retribution ~ Cycle of Redemption ~</a></li></ul>
 </td></tr>
 <tr>
-<th>3.6.0 ()
+<th>3.6.0 (101)
 </th>
-<td>2024-4-5
+<td>2024-04-05
 </td>
 <td>
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Paradigm:_Reboot_Collection" title="Songs">Extra - Paradigm: Reboot</a>
@@ -174,9 +193,9 @@
 <li>Minor changes to the unlock method of <a href="https://phigros.fandom.com/wiki/Retribution_~_Cycle_of_Redemption_~" title="Retribution ~ Cycle of Redemption ~">Retribution ~ Cycle of Redemption ~</a></li></ul>
 </td></tr>
 <tr>
-<th>3.5.2 ()
+<th>3.5.2 (100)
 </th>
-<td>2024-4-1
+<td>2024-04-01
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -186,18 +205,26 @@
 <li>Added Revision Pro feature</li></ul>
 </td></tr>
 <tr>
-<th>3.5.1 ()
+<th>3.5.1 (99)
 </th>
-<td>2024-3-15
+<td>2024-03-15
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
 <ul><li><a href="https://phigros.fandom.com/wiki/Broken_Sky" title="Broken Sky">Broken Sky</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.5.0 ()
+<th>3.5.0.1 (98)
 </th>
-<td>2024-2-24
+<td>2024-03-08
+</td>
+<td>
+<ul><li>Same as 3.5.0</li></ul>
+</td></tr>
+<tr>
+<th>3.5.0 (96,97)
+</th>
+<td>2024-02-24
 </td>
 <td>
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Side_story_3_-_Opertheif" title="Songs">Side Story 3 - Opertheif</a>
@@ -213,9 +240,9 @@
 <ul><li>Added HD13 difficulty</li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.4.3 ()
+<th>3.4.3 (95)
 </th>
-<td>2024-2-2
+<td>2024-02-02
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -223,9 +250,9 @@
 <li><a href="https://phigros.fandom.com/wiki/G.V.N._(Glitter,_Vomitus_and_Neon)" title="G.V.N. (Glitter, Vomitus and Neon)">G.V.N. (Glitter, Vomitus and Neon)</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.4.2 ()
+<th>3.4.2 (94)
 </th>
-<td>2024-1-19
+<td>2024-01-19
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Rotaeno" title="Songs">Extra - Rotaeno</a>
@@ -235,7 +262,7 @@
 <li>Removed "<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://t.co/nfBGqfhmsX">Your Favourite Phigros Songs</a>" voting event link</li></ul>
 </td></tr>
 <tr>
-<th>3.4.1 ()
+<th>3.4.1 (93)
 </th>
 <td>2023-12-29
 </td>
@@ -247,7 +274,7 @@
 <li>Added "liveMania" promotion</li></ul>
 </td></tr>
 <tr>
-<th>3.4.0 ()
+<th>3.4.0 (92)
 </th>
 <td>2023-12-15
 </td>
@@ -258,7 +285,7 @@
 <li><a href="https://phigros.fandom.com/wiki/%E7%A5%88_-%E6%88%91%E3%82%89%E7%A5%9E%E7%A5%96%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E8%80%85%E3%81%AA%E3%82%8A-" title="祈 -我ら神祖と共に歩む者なり-">祈 -我ら神祖と共に歩む者なり-</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.3.0 ()
+<th>3.3.0 (91)
 </th>
 <td>2023-11-17
 </td>
@@ -269,7 +296,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Inverted_World" title="Inverted World">Inverted World</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.2.2 ()
+<th>3.2.2 (90)
 </th>
 <td>2023-10-27
 </td>
@@ -280,7 +307,7 @@
 <li>Changed song jacket for <a href="https://phigros.fandom.com/wiki/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B" title="零號車輛">零號車輛</a></li></ul>
 </td></tr>
 <tr>
-<th>3.2.1 ()
+<th>3.2.1 (89)
 </th>
 <td>2023-9-29
 </td>
@@ -291,7 +318,7 @@
 <li>Adjusted the display of certain collections.</li></ul>
 </td></tr>
 <tr>
-<th>3.2.0 ()
+<th>3.2.0 (87)
 </th>
 <td>2023-8-31
 </td>
@@ -307,9 +334,9 @@
 <li>Changed some Chart Constants.</li></ul>
 </td></tr>
 <tr>
-<th>3.1.3 ()
+<th>3.1.3 (86)
 </th>
-<td>2023-8-18
+<td>2023-08-18
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -317,7 +344,7 @@
 <li>Content update for Phigros x SOUND WAVE FRENZY collaboration, more info on <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://space.bilibili.com/1749080872">SOUND WAVE FRENZY official Bilibili account</a>.</li></ul>
 </td></tr>
 <tr>
-<th>3.1.2 ()
+<th>3.1.2 (85)
 </th>
 <td>2023-07-28
 </td>
@@ -326,7 +353,7 @@
 <ul><li><a href="https://phigros.fandom.com/wiki/%E3%81%B1%E3%81%B4%E3%81%B7%E3%81%B4%E3%81%B7%E3%81%B4%E3%81%B1" title="ぱぴぷぴぷぴぱ">ぱぴぷぴぷぴぱ</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.1.1.1 ()
+<th>3.1.1.1 (84)
 </th>
 <td>2023-07-08
 </td>
@@ -334,7 +361,7 @@
 <ul><li>Fixed a bug where the IN chart of <a href="https://phigros.fandom.com/wiki/Rainy_Season" title="Rainy Season">Rainy Season</a> was broken and showed the chart for <a href="https://phigros.fandom.com/wiki/Rainy_Heart" title="Rainy Heart">Rainy Heart</a> instead</li></ul>
 </td></tr>
 <tr>
-<th>3.1.1 ()
+<th>3.1.1 (83)
 </th>
 <td>2023-07-07
 </td>
@@ -344,7 +371,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Realms" title="Realms">Realms</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.1.0 ()
+<th>3.1.0 (82)
 </th>
 <td>2023-06-09
 </td>
@@ -358,7 +385,15 @@
 <li><a href="https://phigros.fandom.com/wiki/A_journey_to_the_moonlight" title="A journey to the moonlight">A journey to the moonlight</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>3.0.1 ()
+<th>3.0.1.1 (81)
+</th>
+<td>2023-06-02
+</td>
+<td>
+<ul><li>Same as 3.0.1</li></ul>
+</td></tr>
+<tr>
+<th>3.0.1 (80)
 </th>
 <td>2023-05-19
 </td>
@@ -369,7 +404,15 @@
 <li>Reverted the price of all songs in <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a> to 16 MB</li></ul>
 </td></tr>
 <tr>
-<th>3.0.0 ()
+<th>3.0.0.1 (79)
+</th>
+<td>2023-04-28
+</td>
+<td>
+<ul><li>Same as 3.0.0</li></ul>
+</td></tr>
+<tr>
+<th>3.0.0 (78)
 </th>
 <td>2023-04-21
 </td>
@@ -392,7 +435,7 @@
 <li>Changed song jacket for <a href="https://phigros.fandom.com/wiki/%E5%BC%80%E5%BF%83%E7%97%85" title="开心病">开心病</a></li></ul>
 </td></tr>
 <tr>
-<th>2.5.1 ()
+<th>2.5.1 (77)
 </th>
 <td>2023-03-31
 </td>
@@ -404,7 +447,15 @@
 <li>Added Random Song feature</li></ul>
 </td></tr>
 <tr>
-<th>2.5.0 ()
+<th>2.5.0.1 (74)
+</th>
+<td>2023-03-03
+</td>
+<td>
+<ul><li>Fixed an issue where hidden songs could not be unlocked in some cases.</li></ul>
+</td></tr>
+<tr>
+<th>2.5.0 (73)
 </th>
 <td>2023-02-24
 </td>
@@ -422,7 +473,7 @@
 <li>Changed some Chart Constants.</li></ul>
 </td></tr>
 <tr>
-<th>2.4.7 ()
+<th>2.4.7 (72)
 </th>
 <td>2023-01-22
 </td>
@@ -434,7 +485,7 @@
 <li>Added 20 茶鸣拾贰律 avatars and 5 茶鸣拾贰律 special avatars</li></ul>
 </td></tr>
 <tr>
-<th>2.4.6 ()
+<th>2.4.6 (71)
 </th>
 <td>2023-01-13
 </td>
@@ -443,7 +494,7 @@
 <ul><li><a href="https://phigros.fandom.com/wiki/%E9%9D%92%E4%B8%98" title="青丘">青丘</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.4.5 ()
+<th>2.4.5 (70)
 </th>
 <td>2022-12-23
 </td>
@@ -453,7 +504,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Believe_Light_(feat._%E6%9E%9C%E4%B8%B8%E5%93%92%E5%91%A6)" title="Believe Light (feat. 果丸哒呦)">Believe Light (feat. 果丸哒呦)</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.4.4 ()
+<th>2.4.4 (69)
 </th>
 <td>2022-11-25
 </td>
@@ -463,7 +514,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Break_Over" title="Break Over">Break Over</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.4.3 ()
+<th>2.4.3 (68)
 </th>
 <td>2022-11-04
 </td>
@@ -473,7 +524,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Eternal_Snow" title="Eternal Snow">Eternal Snow</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.4.2 ()
+<th>2.4.2 (66)
 </th>
 <td>2022-10-14
 </td>
@@ -483,7 +534,7 @@
 <li><a href="https://phigros.fandom.com/wiki/%E9%9D%92%E8%8A%BD" title="青芽">青芽</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.4.1 ()
+<th>2.4.1 (65)
 </th>
 <td>2022-09-23
 </td>
@@ -495,7 +546,7 @@
 <li>Modified some charts</li></ul>
 </td></tr>
 <tr>
-<th>2.4.0 ()
+<th>2.4.0 (64)
 </th>
 <td>2022-08-31
 </td>
@@ -514,7 +565,7 @@
 <li>Minor UI improvements</li></ul>
 </td></tr>
 <tr>
-<th>2.3.3 ()
+<th>2.3.3 (63)
 </th>
 <td>2022-08-12
 </td>
@@ -522,7 +573,7 @@
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/On_And_On!!" title="On And On!!">On And On!!</a> to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a></li></ul>
 </td></tr>
 <tr>
-<th>2.3.2 ()
+<th>2.3.2 (62)
 </th>
 <td>2022-07-22
 </td>
@@ -530,7 +581,7 @@
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/%E6%9C%88%E4%B8%8B%E7%BC%AD%E4%B9%B1" title="月下缭乱">月下缭乱</a> to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a></li></ul>
 </td></tr>
 <tr>
-<th>2.3.1 ()
+<th>2.3.1 (61)
 </th>
 <td>2022-07-01
 </td>
@@ -539,7 +590,7 @@
 <li>Minor UI and functional improvements</li></ul>
 </td></tr>
 <tr>
-<th>2.3.0 ()
+<th>2.3.0 (60)
 </th>
 <td>2022-06-10
 </td>
@@ -552,7 +603,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Stasis" title="Stasis">Stasis</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.2.1 ()
+<th>2.2.1 (59)
 </th>
 <td>2022-05-20
 </td>
@@ -563,7 +614,7 @@
 <li>Song jacket change for <a href="https://phigros.fandom.com/wiki/NYA!!!" class="mw-redirect" title="NYA!!!">NYA!!!</a></li></ul>
 </td></tr>
 <tr>
-<th>2.2.0 ()
+<th>2.2.0 (58)
 </th>
 <td>2022-04-29
 </td>
@@ -593,7 +644,7 @@
 <li>Added <a href="https://phigros.fandom.com/wiki/HAZARD#Hidden" title="HAZARD">HAZARD Hidden</a> to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_KALPA_Collection" title="Songs">KALPA Collection</a></li></ul>
 </td></tr>
 <tr>
-<th>2.1.3 ()
+<th>2.1.3 (56)
 </th>
 <td>2022-03-18
 </td>
@@ -603,7 +654,7 @@
 <ul><li><a href="https://phigros.fandom.com/wiki/Demiurge" title="Demiurge">Demiurge</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.1.2 ()
+<th>2.1.2 (55)
 </th>
 <td>2022-02-25
 </td>
@@ -611,7 +662,7 @@
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/Future_Mind" title="Future Mind">Future Mind</a> to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a></li></ul>
 </td></tr>
 <tr>
-<th>2.1.1 ()
+<th>2.1.1 (54)
 </th>
 <td>2022-01-21
 </td>
@@ -622,7 +673,7 @@
 <li><a href="https://phigros.fandom.com/wiki/996" title="996">996</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>2.1.0 ()
+<th>2.1.0 (53)
 </th>
 <td>2021-12-24
 </td>
@@ -647,7 +698,7 @@
 <li>Added low-resolution mode feature for performance improvements on low-end devices.</li></ul>
 </td></tr>
 <tr>
-<th>2.0.0 ()
+<th>2.0.0 (51)
 </th>
 <td>2021-10-22
 </td>
@@ -703,7 +754,7 @@
 <li>Bugs fixed</li></ul>
 </td></tr>
 <tr>
-<th>1.6.11 ()
+<th>1.6.11 (50)
 </th>
 <td>2021-07-25
 </td>
@@ -723,7 +774,7 @@
 <li>Made Fix Audio option in settings visible again, renamed to Manual Audio Adjustment</li></ul>
 </td></tr>
 <tr>
-<th>1.6.9 ()
+<th>1.6.9 (48)
 </th>
 <td>2021-06-18
 </td>
@@ -749,7 +800,7 @@
 <li>Fixed the error of certain Legacy charts showing wrong difficulty level.</li></ul>
 </td></tr>
 <tr>
-<th>1.6.7.1 ()
+<th>1.6.7.1 (46)
 </th>
 <td>2021-05-07
 </td>
@@ -758,7 +809,7 @@
 <li>Optimize the touching and judgment system</li></ul>
 </td></tr>
 <tr>
-<th>1.6.7 ()
+<th>1.6.7 (45)
 </th>
 <td>2021-04-30
 </td>
@@ -774,7 +825,7 @@
 <li><a href="https://phigros.fandom.com/wiki/Spasmodic(Haocore_Mix)" title="Spasmodic(Haocore Mix)">Spasmodic(Haocore Mix)</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>1.6.6 ()
+<th>1.6.6 (44)
 </th>
 <td>2021-04-15
 </td>
@@ -790,7 +841,7 @@
 <li>Fixed the bug where chart designer names could not be displayed properly for certain Legacy charts (as in <a href="https://phigros.fandom.com/wiki/HumaN" title="HumaN">HumaN</a> and <a href="https://phigros.fandom.com/wiki/PRAW" title="PRAW">[PRAW]</a>).</li></ul>
 </td></tr>
 <tr>
-<th>1.6.5 ()
+<th>1.6.5 (42)
 </th>
 <td>2021-04-01
 </td>
@@ -802,7 +853,7 @@
 <li>Fixed bug that made Legacy difficulties inaccessible.</li></ul>
 </td></tr>
 <tr>
-<th>1.6.4 ()
+<th>1.6.4 (41)
 </th>
 <td>2021-03-05
 </td>
@@ -817,7 +868,7 @@
 <ul><li>Fixed bug which caused display issues in the Settings menu.</li></ul></li></ul>
 </td></tr>
 <tr>
-<th>1.6.3 ()
+<th>1.6.3 (39)
 </th>
 <td>2021-01-15
 </td>
@@ -828,7 +879,7 @@
 <li>Fixed bug which caused the HD and IN difficulties of <a href="https://phigros.fandom.com/wiki/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD" title="Ποσειδών">Ποσειδών</a> to be permanently locked.</li></ul>
 </td></tr>
 <tr>
-<th>1.6.2 ()
+<th>1.6.2 (38)
 </th>
 <td>2020-12-24
 </td>
@@ -841,7 +892,7 @@
 <li>Charter information changed for <a href="https://phigros.fandom.com/wiki/Hardcore_Kwaya" title="Hardcore Kwaya">Hardcore Kwaya</a></li></ul>
 </td></tr>
 <tr>
-<th>1.6.1 ()
+<th>1.6.1 (37)
 </th>
 <td>2020-12-11
 </td>
@@ -851,7 +902,7 @@
 <li>Bug fixes</li></ul>
 </td></tr>
 <tr>
-<th>1.6.0 ()
+<th>1.6.0 (36)
 </th>
 <td>2020-11-28
 </td>
@@ -886,6 +937,16 @@
 <ul><li>Fixed glitch that prevented players from scrolling to the bottom of the songs section of <a href="https://phigros.fandom.com/wiki/Shop" class="mw-redirect" title="Shop">Shop</a>.</li>
 <li>Fix Audio option added back to settings as a hidden button below the bottom of the settings.</li></ul>
 </td></tr>
+
+<tr>
+<th>1.5.5.1 (33)
+</th>
+<td>2020-??-??
+</td>
+<td>
+<ul><li>?</li></ul>
+</td></tr>
+
 <tr>
 <th>1.5.5 (32)
 </th>
@@ -1118,10 +1179,15 @@
 <tr>
 <th>1.3.1 (14)
 </th>
-<td>
+<td>2020-03-02
 </td>
 <td>
 <ul><li>Added Google Play Games support</li></ul>
+<ul><li>Fixed an issue where the chapter selection interface might not display properly.</li></ul>
+<ul><li>Fixed an issue where a certain collectible could not be collected.</li></ul>
+<ul><li>Modified a series of collectible texts.</li></ul>
+<ul><li>Fixed an issue where the percussion sound could not play properly when entering a hidden track for the first time.</li></ul>
+<ul><li>Data mining adjustments.</li></ul>
 </td></tr>
 <tr>
 <th>1.3.0 (11,12)
@@ -1148,7 +1214,7 @@
 <li>Added Fix Audio setting to options menu</li></ul>
 </td></tr>
 <tr>
-<th>1.2.5 ()
+<th>1.2.5 (10)
 </th>
 <td>2020-01-24
 </td>
@@ -1174,7 +1240,7 @@
 <li>Changed logo to a Christmas theme</li></ul>
 </td></tr>
 <tr>
-<th>1.2.3 ()
+<th>1.2.3 (8)
 </th>
 <td>2019-12-06
 </td>
@@ -1182,7 +1248,7 @@
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/Khronostasis_Katharsis" title="Khronostasis Katharsis">Khronostasis Katharsis</a> to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a></li></ul>
 </td></tr>
 <tr>
-<th>1.2.2 ()
+<th>1.2.2 (7)
 </th>
 <td>2019-11-22
 </td>
@@ -1192,7 +1258,7 @@
 <li>Added English translation for <a href="https://phigros.fandom.com/wiki/Shop" class="mw-redirect" title="Shop">Shop</a></li></ul>
 </td></tr>
 <tr>
-<th>1.2.1 ()
+<th>1.2.1 (6)
 </th>
 <td>2019-11-15
 </td>
@@ -1207,7 +1273,7 @@
 <li>Renamed <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_闫东炜_Collection" title="Songs">Extra - 闫东炜 Collection 2</a> to Extra - 闫东炜 Collection</li></ul>
 </td></tr>
 <tr>
-<th>1.2.0 ()
+<th>1.2.0 (5)
 </th>
 <td>2019-10-25
 </td>
@@ -1219,7 +1285,15 @@
 <li><a href="https://phigros.fandom.com/wiki/%E8%8F%AF%E7%81%AF%E7%88%B1" title="華灯爱">華灯爱</a></li></ul></li></ul>
 </td></tr>
 <tr>
-<th>1.1.0 ()
+<th>1.1.1 (4)
+</th>
+<td>2019-10-18
+</td>
+<td>
+<ul><li>Greatly optimized audio delay for most devices.</li></ul>
+</td></tr>
+<tr>
+<th>1.1.0 (3)
 </th>
 <td>2019-09-27
 </td>
@@ -1233,7 +1307,17 @@
 <ul><li>Song jacket changed for <a href="https://phigros.fandom.com/wiki/Doppelganger" title="Doppelganger">Doppelganger</a></li></ul>
 </td></tr>
 <tr>
-<th>1.0.0 ()
+<th>1.0.1 (2)
+</th>
+<td>2019-09-08
+</td>
+<td>
+<ul><li>Some UI adjustments</a></li></ul>
+<ul><li>Fix crash error on iPhone 6, iPhone 6 Plus, iPhone 5c, iPad mini 2 and other devices</a></li></ul>
+<ul><li>Offset adjustment range changed from 0 ms to 500 ms to -400 ms to 600 ms</a></li></ul>
+</td></tr>
+<tr>
+<th>1.0.0 (1)
 </th>
 <td>2019-08-31
 </td>

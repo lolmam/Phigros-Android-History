@@ -9,31 +9,30 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 Welcome to the **Phigros Versions Archive**. This repository contains a list of (almost) every released version of the game Phigros, including version codes and some TapTap versions.
 
+Huge thanks to [SteveZMTstudios](https://github.com/SteveZMTstudios) and his [Phigros-history](https://github.com/SteveZMTstudios/Phigros-history) repository for the old and missing versions.
 
 **Notes:**
 1. Version 3.10.3 (119) is the latest version "25/Dec/2024"
-2. **Unavailable version codes on Google Play: (0,1,2,3,4,5,6,7,8,10,13,40,50,65,66,67,73,75,76,96)** 
+2. **Unavailable version codes (They don't exist): (13,40,67,75,76,107,114,117)** 
 3. "G" is for Google Play versions, and "T" is for TapTap versions.
-4. If you need help, or have any older versions, message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649)
+4. If you need help, or have any older versions, open an issue or message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649)
 
 Changelog is [Here](changelog.md)
 
 | Version Code | Version | Available |
 |:-:|:-:|:-:|
-|0| - | No |
-|1| - | No |
-|2| - | No |
-|3| - | No |
-|4| - | No |
-|5| - | No |
-|6| - | No |
-|7| - | No |
-|8| - | No |
+|1| 1.0.0 | T |
+|2| 1.0.1 |  |
+|3| 1.1.0 |  |
+|4| 1.1.1 |  |
+|5| 1.2.0 |  |
+|6| 1.2.1 | No |
+|7| 1.2.2 | No |
+|8| 1.2.3 | No |
 |9| 1.2.4 | T |
-|10| - | No |
+|10| 1.2.5 | No |
 |11| 1.3.0 | G |
 |12| 1.3.0 | G |
-|13| - | No |
 |14| 1.3.1 | G |
 |15| 1.3.2 | G |
 |16| 1.4.0 | G |
@@ -57,71 +56,79 @@ Changelog is [Here](changelog.md)
 |34| 1.5.6 |
 |35| 1.5.7 |
 |36| 1.6.0 | G |
-|37|
-|38|
-|39|
-|40| - | No |
-|41|
-|42|
-|43|
-|44|
-|45|
-|46|
+|37| 1.6.1 |
+|38| 1.6.2 | 
+|39| 1.6.3 |
+|41| 1.6.4 | 
+|42| 1.6.5 |
+|43| | G? |
+|44| 1.6.6 | 
+|45| 1.6.7 |
+|46| 1.6.7.1 |
 |47| 1.6.8 | G |
-|48|
+|48| 1.6.9 |
 |49| 1.6.10 | T |
-|50| - | No |
-|51|
+|50| 1.6.11 |  |
+|51| 2.0.0 | 
 |52| 2.0.1 |
-|53|
-|54|
-|55|
-|56|
+|53| 2.1.0 |
+|54| 2.1.1 |
+|55| 2.1.2 |
+|56| 2.1.3 |
 |57| 2.1.4 | G |
-|58|
-|59|
-|60|
-|61|
-|62|
-|63|
-|64|
-|65| - | No |
-|66| - | No |
-|67| - | No |
-|68|
-|69|
-|70|
-|71|
-|72|
-|73| - | No |
-|74|
-|75| - | No |
-|76| - | No |
-|77|
-|78|
-|79|
-|80|
-|81|
-|82|
-|83|
-|84|
-|85|
-|86|
-|87|
-|88|
-|89|
-|90|
-|91|
-|92|
-|93|
-|94|
-|95|
-|96| - | No |
-|97|
-|98|
-|99|
-|100|
-|101|
+|58| 2.2.0 | 
+|59| 2.2.1 |
+|60| 2.3.0 |
+|61| 2.3.1 |
+|62| 2.3.2 |
+|63| 2.3.3 |
+|64| 2.4.0 |
+|65| 2.4.1 | No |
+|66| 2.4.2 | No |
+|68| 2.4.3 |
+|69| 2.4.4 |
+|70| 2.4.5 |
+|71| 2.4.6 |
+|72| 2.4.7 |
+|73| 2.5.0 |  |
+|74| 2.5.0.1 |
+|77| 2.5.1 |
+|78| 3.0.0 |
+|79| 3.0.0.1 |
+|80| 3.0.1 |
+|81| 3.0.1.1 |
+|82| 3.1.0 |
+|83| 3.1.1 |
+|84| 3.1.1.1 |
+|85| 3.1.2 |
+|86| 3.1.3 |
+|87| 3.2.0 |
+|88| 3.2.0 |
+|89| 3.2.1 |
+|90| 3.2.2 |
+|91| 3.3.0 |
+|92| 3.4.0 |
+|93| 3.4.1 |
+|94| 3.4.2 |
+|95| 3.4.3 |
+|96| 3.5.0 | T? |
+|97| 3.5.0 | G? |
+|98| 3.5.0.1 |
+|99| 3.5.1 |
+|100| 3.5.2 |
+|101| 3.6.0 |
 |102| 3.6.1 | G |
 |103| 3.6.2 |  |
+|104| 3.6.3 |
+|105| 3.7.0 |
+|106| 3.7.1 |
+|108| 3.8.0 |
+|109| 3.8.1 |
+|110| 3.8.1.1 |
+|111| 3.9.0 |
+|112| 3.9.0.1 |
+|113| 3.9.1 |
+|115| 3.10.0 |
+|116| 3.10.1 |
+|118| 3.10.2 |
 |119| 3.10.3 |  |
