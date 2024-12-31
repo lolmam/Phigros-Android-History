@@ -11,6 +11,135 @@
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.10.2
+</th>
+<td>2024-11-29
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Fixations_Toward_the_Stars" title="Fixations Toward the Stars">Fixations Toward the Stars</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Valor/starcross" title="Valor/starcross">valor/starcross</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Comet" title="Comet">Comet</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.10.1
+</th>
+<td>2024-11-08
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Schadenfreude" title="Schadenfreude">Schadenfreude</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Le_temps_perdu" title="Le temps perdu">Le temps perdu</a></li></ul></li>
+<li>Made modifications to the HD chart of <a href="https://phigros.fandom.com/wiki/Re:End_of_a_Dream" title="Re:End of a Dream">Re:End of a Dream</a> and <a href="https://phigros.fandom.com/wiki/Leave_All_Behind" title="Leave All Behind">Leave All Behind</a> jacket</li></ul>
+</td></tr>
+<tr>
+<th>3.10.0
+</th>
+<td>2024-10-18
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Rhythm_Master_Collection" title="Songs">Extra - Rhythm Master Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E9%BB%84%E9%87%91%E4%B9%8B%E5%9F%8E_(GOLD_TOWN)" title="黄金之城 (GOLD TOWN)">黄金之城 (GOLD TOWN)</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E5%8F%8C%E9%87%8D%E9%97%B4%E8%B0%8D_(Double_Agent)" title="双重间谍 (Double Agent)">双重间谍 (Double Agent)</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E5%B9%BB%E5%BD%B1%E9%AC%BC%E9%AD%85_(PLEASE)" title="幻影鬼魅 (PLEASE)">幻影鬼魅 (PLEASE)</a></li></ul></li>
+<li>Moved <a href="https://phigros.fandom.com/wiki/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84_(Quo_Vadis)" title="君往何处 (Quo Vadis)">君往何处 (Quo Vadis)</a> and <a href="https://phigros.fandom.com/wiki/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92_(REANIMATE)" title="暗夜苏醒 (REANIMATE)">暗夜苏醒 (REANIMATE)</a> to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Rhythm_Master_Collection" title="Songs">Extra - Rhythm Master Collection</a></li></ul>
+</td></tr>
+<tr>
+<th>3.9.1
+</th>
+<td>2024-9-20
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Thrash_force" title="Thrash force">Thrash force</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Originally" title="Originally">Originally</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.9.0.1
+</th>
+<td>2024-9-4
+</td>
+<td>
+<ul><li>Made modifications to the IN charts of <a href="https://phigros.fandom.com/wiki/CROSS%E2%80%A0SOUL" title="CROSS†SOUL">CROSS†SOUL</a>, <a href="https://phigros.fandom.com/wiki/%E5%BF%83%E3%81%AE%E8%A8%98%E6%86%B6" title="心の記憶">心の記憶</a> and  AT chart of <a href="https://phigros.fandom.com/wiki/ATHAZA" title="ATHAZA">ATHAZA</a></li>
+<li>Fixed bugs</li></ul>
+</td></tr>
+<tr>
+<th>3.9.0
+</th>
+<td>2024-8-31
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Side_story_4_-_Animitta-Sabha" title="Songs">Side story 4 - Animitta-Sabha</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E5%BF%83%E3%81%AE%E8%A8%98%E6%86%B6" title="心の記憶">心の記憶</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Spotlight" title="Spotlight">Spotlight</a></li>
+<li><a href="https://phigros.fandom.com/wiki/NightTheater" title="NightTheater">NightTheater</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Ramification" title="Ramification">Ramification</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Der_Richter" title="Der Richter">Der Richter</a></li>
+<li><a href="https://phigros.fandom.com/wiki/ATHAZA" title="ATHAZA">ATHAZA</a></li></ul></li>
+<li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Grimheart" title="Grimheart">Grimheart</a></li></ul></li>
+<li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_CHUNITHM_Collection" title="Songs">Extra - CHUNITHM Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E6%9C%88%E8%A9%A0%E3%81%AB%E9%B3%B4%E3%82%8B" title="月詠に鳴る">月詠に鳴る</a></li></ul></li>
+<li>Made modifications to the IN charts of <a href="https://phigros.fandom.com/wiki/Chronostasis" title="Chronostasis">Chronostasis</a>, <a href="https://phigros.fandom.com/wiki/Cryout" title="Cryout">Cryout</a> and <a href="https://phigros.fandom.com/wiki/Orthodox" title="Orthodox">Orthodox</a></li>
+<li>Revamped some EZ and HD charts</li>
+<li>Adjusted the difficulty of some charts</li></ul>
+</td></tr>
+<tr>
+<th>3.8.1
+</th>
+<td>2024-08-16
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E5%90%9B%E5%BE%80%E4%BD%95%E5%A4%84_(Quo_Vadis)" title="君往何处 (Quo Vadis)">君往何处 (Quo Vadis)</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E6%9A%97%E5%A4%9C%E8%8B%8F%E9%86%92_(REANIMATE)" title="暗夜苏醒 (REANIMATE)">暗夜苏醒 (REANIMATE)</a></li></ul></li>
+<li>Made modifications to the IN charts of <a href="https://phigros.fandom.com/wiki/Bloom" title="Bloom">Bloom</a>, <a href="https://phigros.fandom.com/wiki/IL-Artifact" title="IL-Artifact">iL-Artifact</a> and <a href="https://phigros.fandom.com/wiki/%E6%98%8E%E9%8F%A1%E7%83%88%E7%81%AB" title="明鏡烈火">明鏡烈火</a></li></ul>
+</td></tr>
+<tr>
+<th>3.8.0
+</th>
+<td>2024-07-26
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_TAKUMI³_Collection" title="Songs">Extra - TAKUMI³ Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Cuvism%C2%B3" title="Cuvism³">Cuvism³</a></li>
+<li><a href="https://phigros.fandom.com/wiki/IL-Artifact" title="IL-Artifact">IL-Artifact</a></li>
+<li><a href="https://phigros.fandom.com/wiki/A_truth_seeker_-Communication_with_Utopia_will_be_lost-" title="A truth seeker -Communication with Utopia will be lost-">A truth seeker -Communication with Utopia will be lost-</a></li></ul></li>
+<li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Bounded_Quietude" title="Bounded Quietude">Bounded Quietude</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.7.1
+</th>
+<td>2024-07-12
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E4%BB%8A%E5%A4%A9%E4%B8%8D%E6%98%AF%E6%98%8E%E5%A4%A9" title="今天不是明天">今天不是明天</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.7.0
+</th>
+<td>2024-06-28
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_SHINOBI_SLASH_Collection" title="Songs">Extra - SHINOBI SLASH Collection</a>:
+<ul><li><a href="https://phigros.fandom.com/wiki/%E5%B9%BD%E4%B8%96%E6%A1%94%E6%A2%97" title="幽世桔梗">幽世桔梗</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E5%8D%83%E7%B4%AB%E4%B8%87%E7%B4%85" title="千紫万紅">千紫万紅</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E6%98%8E%E9%8F%A1%E7%83%88%E7%81%AB" title="明鏡烈火">明鏡烈火</a></li></ul></li>
+<li>Removed some songs:
+<ul><li><a href="https://phigros.fandom.com/wiki/%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB" title="テリトリーバトル">テリトリーバトル</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.6.3
+</th>
+<td>2024-5-31
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Bloom" title="Bloom">Bloom</a></li></ul></li></ul>
+</td></tr>
+<tr>
 <th>3.6.2
 </th>
 <td>2024-5-10
