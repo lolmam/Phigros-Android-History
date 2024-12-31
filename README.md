@@ -16,6 +16,8 @@ Welcome to the **Phigros Versions Archive**. This repository contains a list of 
 3. "G" is for Google Play versions, and "T" is for TapTap versions.
 4. If you need help, or have any older versions, message me on Discord: **@lol.mam**
 
+Changelog is [Here](changelog.md)
+
 | Version Code | Version | Available |
 |:-:|:-:|:-:|
 |0| - | No |
