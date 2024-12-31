@@ -7,14 +7,14 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 ##
 
-Welcome to the **Phigros Versions Archive**. This repository contains a list of every released version of the game Phigros, including some TapTap versions and version codes.
+Welcome to the **Phigros Versions Archive**. This repository contains a list of (almost) every released version of the game Phigros, including version codes and some TapTap versions.
 
 
 **Notes:**
 1. Version 3.10.3 (119) is the latest version "25/Dec/2024"
 2. **Unavailable version codes on Google Play: (0,1,2,3,4,5,6,7,8,10,13,40,50,65,66,67,73,75,76,96)** 
 3. "G" is for Google Play versions, and "T" is for TapTap versions.
-4. If you need help, or have any older versions, message me on Discord: **@lol.mam**
+4. If you need help, or have any older versions, message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649)
 
 Changelog is [Here](changelog.md)
 
@@ -47,16 +47,16 @@ Changelog is [Here](changelog.md)
 |24| 1.4.6 | G |
 |25| 1.4.7 | G |
 |26| 1.5.0 | G |
-|27|
-|28|
-|29|
-|30|
-|31|
-|32|
-|33|
-|34|
-|35|
-|36|
+|27| 1.5.0 | G |
+|28| 1.5.1 | G |
+|29| 1.5.2 | G |
+|30| 1.5.3 |
+|31| 1.5.3 |
+|32| 1.5.5 |
+|33| 1.5.5.1 | G |
+|34| 1.5.6 |
+|35| 1.5.7 |
+|36| 1.6.0 | G |
 |37|
 |38|
 |39|
@@ -123,5 +123,5 @@ Changelog is [Here](changelog.md)
 |100|
 |101|
 |102| 3.6.1 | G |
-|103| 3.6.2 | G |
-|119| 3.10.3 | G |
+|103| 3.6.2 |  |
+|119| 3.10.3 |  |

@@ -866,7 +866,7 @@
 <li>Minor changes related to judgment issues made to <a href="https://phigros.fandom.com/wiki/MARENOL" title="MARENOL">MARENOL</a> and <a href="https://phigros.fandom.com/wiki/PRAW" title="PRAW">[PRAW]</a></li></ul>
 </td></tr>
 <tr>
-<th>1.5.7 ()
+<th>1.5.7 (35)
 </th>
 <td>2020-11-13
 </td>
@@ -878,7 +878,7 @@
 <li>Fixed several bugs and optimized the audio system.</li></ul>
 </td></tr>
 <tr>
-<th>1.5.6 ()
+<th>1.5.6 (34)
 </th>
 <td>2020-11-09
 </td>
@@ -887,7 +887,7 @@
 <li>Fix Audio option added back to settings as a hidden button below the bottom of the settings.</li></ul>
 </td></tr>
 <tr>
-<th>1.5.5 ()
+<th>1.5.5 (32)
 </th>
 <td>2020-10-30
 </td>
@@ -897,7 +897,7 @@
 <li>Loading icon changed.</li></ul>
 </td></tr>
 <tr>
-<th>1.5.3 () (rev 2)
+<th>1.5.3 (31) (rev 2)
 </th>
 <td>2020-10-23
 </td>
@@ -906,7 +906,7 @@
 <li>Fixed song count of Single Collection</li></ul>
 </td></tr>
 <tr>
-<th>1.5.3 () (rev 1)
+<th>1.5.3 (30) (rev 1)
 </th>
 <td>2020-10-16 (taken down later that same day)
 </td>
@@ -919,7 +919,7 @@
 <li>Added option to switch difficulties from profile card</li></ul>
 </td></tr>
 <tr>
-<th>1.5.2 ()
+<th>1.5.2 (29)
 </th>
 <td>2020-09-19
 </td>
@@ -934,7 +934,7 @@
 <li>Song jacket changed for <a href="https://phigros.fandom.com/wiki/MARENOL" title="MARENOL">MARENOL</a></li></ul>
 </td></tr>
 <tr>
-<th>1.5.1 ()
+<th>1.5.1 (28)
 </th>
 <td>2020-09-09
 </td>
@@ -942,7 +942,7 @@
 <ul><li>Fixed bug where <a href="https://phigros.fandom.com/wiki/NO_ONE_YES_MAN" title="NO ONE YES MAN">NO ONE YES MAN's</a> EZ chart was overwritten with it's HD chart</li></ul>
 </td></tr>
 <tr>
-<th>1.5.0 (26)
+<th>1.5.0 (26,27)
 </th>
 <td>2020-08-31
 </td>
