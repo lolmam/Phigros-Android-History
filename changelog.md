@@ -1183,11 +1183,11 @@
 </td>
 <td>
 <ul><li>Added Google Play Games support</li></ul>
-<ul><li>Fixed an issue where the chapter selection screen did not display properly.</li></ul>
-<ul><li>Fixed an issue where a collectible could not be collected.</li></ul>
-<ul><li>Modified some collectible texts.</li></ul>
-<ul><li>Fixed an issue where sound could not play properly when entering a hidden song for the first time.</li></ul>
-<ul><li>Data mining adjustments.</li></ul>
+<ul><li>Fixed an issue where the chapter selection screen did not display properly</li></ul>
+<ul><li>Fixed an issue where a collectible could not be collected</li></ul>
+<ul><li>Modified some collectibles</li></ul>
+<ul><li>Fixed an issue where sound could not play properly when entering a hidden song for the first time</li></ul>
+<ul><li>Data mining adjustments</li></ul>
 </td></tr>
 <tr>
 <th>1.3.0 (11,12)

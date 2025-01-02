@@ -16,9 +16,21 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 **Notes:**
 1. Version 3.10.3 (119) is the latest version "25/Dec/2024".
 2. The game updates around every Friday at (09:00 AM UTC).
-3. **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
-4. "G" is for Google Play versions, "T" is for TapTap versions, and NA for available versions that don't work (APK is Available but doesn't install or launch).
-5. If you need help, or have any older versions, open an issue or message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649).
+3. Google Play versions **(G)** and TapTap versions **(T)** are not **compatible** with each other due to differences in their digital signatures.
+
+	• Google Play versions are signed by Google.
+	
+	• TapTap versions are signed by Pigeon Games.
+	
+	This means you cannot:
+
+	• Install a **Google Play** version and update it to a **TapTap** version.
+
+	• Install a **TapTap** version and update it to a **Google Play** version.
+
+4. **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
+5. "G" is for Google Play versions, "T" is for TapTap versions, and NA for available versions that don't work (APK is Available but doesn't install or launch).
+6. If you need help, or have any older versions, open an issue or message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649).
 
 Changelog is [Here](changelog.md)
 
