@@ -15,9 +15,10 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 **Notes:**
 1. Version 3.10.3 (119) is the latest version "25/Dec/2024".
-2. **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
-3. "G" is for Google Play versions, and "T" is for TapTap versions.
-4. If you need help, or have any older versions, open an issue or message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649).
+2. The game updates around every Friday at (09:00 AM UTC).
+3. **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
+4. "G" is for Google Play versions, "T" is for TapTap versions, and NA for available versions that don't work (APK is Available but doesn't install or launch).
+5. If you need help, or have any older versions, open an issue or message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649).
 
 Changelog is [Here](changelog.md)
 
@@ -113,8 +114,8 @@ Changelog is [Here](changelog.md)
 |93| 3.4.1 |
 |94| 3.4.2 |
 |95| 3.4.3 |
-|96| 3.5.0 | T? |
-|97| 3.5.0 | G? |
+|96| 3.5.0 | NA |
+|97| 3.5.0 | G |
 |98| 3.5.0.1 |
 |99| 3.5.1 |
 |100| 3.5.2 |

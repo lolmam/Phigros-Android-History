@@ -318,7 +318,7 @@
 <li>Adjusted the display of certain collections.</li></ul>
 </td></tr>
 <tr>
-<th>3.2.0 (87)
+<th>3.2.0 (87,88)
 </th>
 <td>2023-8-31
 </td>
@@ -1183,10 +1183,10 @@
 </td>
 <td>
 <ul><li>Added Google Play Games support</li></ul>
-<ul><li>Fixed an issue where the chapter selection interface might not display properly.</li></ul>
-<ul><li>Fixed an issue where a certain collectible could not be collected.</li></ul>
-<ul><li>Modified a series of collectible texts.</li></ul>
-<ul><li>Fixed an issue where the percussion sound could not play properly when entering a hidden track for the first time.</li></ul>
+<ul><li>Fixed an issue where the chapter selection screen did not display properly.</li></ul>
+<ul><li>Fixed an issue where a collectible could not be collected.</li></ul>
+<ul><li>Modified some collectible texts.</li></ul>
+<ul><li>Fixed an issue where sound could not play properly when entering a hidden song for the first time.</li></ul>
 <ul><li>Data mining adjustments.</li></ul>
 </td></tr>
 <tr>
@@ -1313,8 +1313,8 @@
 </td>
 <td>
 <ul><li>Some UI adjustments</a></li></ul>
-<ul><li>Fix crash error on iPhone 6, iPhone 6 Plus, iPhone 5c, iPad mini 2 and other devices</a></li></ul>
-<ul><li>Offset adjustment range changed from 0 ms to 500 ms to -400 ms to 600 ms</a></li></ul>
+<ul><li>Fix crashing on iPhone 6, iPhone 6 Plus, iPhone 5c, iPad mini 2 and other devices</a></li></ul>
+<ul><li>Offset adjustment range changed from (0 ms - 500 ms) to (-400 ms - 600 ms)</a></li></ul>
 </td></tr>
 <tr>
 <th>1.0.0 (1)
