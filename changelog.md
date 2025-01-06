@@ -1,6 +1,11 @@
 # Changelog from [Phigros Wiki | Fandom](https://phigros.fandom.com/)
 
+This changelog includes modifications to the original table sourced from the Phigros wiki at Fandom, licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA)**.
 
+The table has been modified for this repository to include additional entries and updates based on the repository's context.
+
+### License
+This changelog is licensed under the **CC-BY-SA 3.0** license.
 
 <table class="wikitable" style="width:100%;">
 <tbody><tr>
@@ -1356,3 +1361,8 @@
 <li><a href="https://phigros.fandom.com/wiki/Drop_It" title="Drop It">Drop It</a></li>
 <li><a href="https://phigros.fandom.com/wiki/RIPPER" title="RIPPER">RIPPER</a></li></ul></li></ul>
 </td></tr></tbody></table>
+
+## License
+This file (changelog.md) is licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA)**.
+
+Full details of the license can be found here: [CC-BY-SA License](https://creativecommons.org/licenses/by-sa/3.0/)
