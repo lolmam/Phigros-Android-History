@@ -4,7 +4,7 @@ This changelog includes modifications to the original table sourced from the Phi
 
 The table has been modified for this repository to include additional entries and updates based on the repository's context.
 
-### License
+## License
 This changelog is licensed under the **CC-BY-SA 3.0** license.
 
 <table class="wikitable" style="width:100%;">
