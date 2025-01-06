@@ -1317,9 +1317,9 @@ This changelog is licensed under the **CC-BY-SA 3.0** license.
 <td>2019-09-08
 </td>
 <td>
-<ul><li>Some UI adjustments</a></li></ul>
-<ul><li>Fix crashing on iPhone 6, iPhone 6 Plus, iPhone 5c, iPad mini 2 and other devices</a></li></ul>
-<ul><li>Offset adjustment range changed from (0 ms - 500 ms) to (-400 ms - 600 ms)</a></li></ul>
+<ul><li>Some UI adjustments</li></ul>
+<ul><li>Fix crashing on iPhone 6, iPhone 6 Plus, iPhone 5c, iPad mini 2 and other devices</li></ul>
+<ul><li>Offset adjustment range changed from (0 ms - 500 ms) to (-400 ms - 600 ms)</li></ul>
 </td></tr>
 <tr>
 <th>1.0.0 (1)

@@ -1,5 +1,10 @@
 # Versions Table
 
+**Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
+
+Full Changelog is [Here](Changelog.md)
+
+
 <table style="width:100%;">
 <tbody>
 		<tr>
@@ -15,7 +20,7 @@
 		<tr>
 			<td>2</td>
 			<td>1.0.1</td>
-			<td>T</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.1">T</a></td>
 		</tr>
 		<tr>
 			<td>3</td>
