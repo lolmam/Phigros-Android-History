@@ -28,12 +28,12 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>3</td>
 			<td>1.1.0</td>
-			<td>T</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.0">T</a></td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>1.1.1</td>
-			<td>T</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.1">T</a></td>
 			</tr>
 		<tr>
 			<td>5</td>
@@ -338,27 +338,27 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>68</td>
 			<td>2.4.3</td>
-			<td></td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>69</td>
 			<td>2.4.4</td>
-			<td></td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>70</td>
 			<td>2.4.5</td>
-			<td></td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>71</td>
 			<td>2.4.6</td>
-			<td></td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>72</td>
 			<td>2.4.7</td>
-			<td></td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>73</td>
@@ -569,5 +569,11 @@ Full Changelog is [Here](Changelog.md)
 			<td>119</td>
 			<td>3.10.3</td>
 			<td></td>
+		</tr>
+		<tr>
+			<td>120</td>
+			<td>3.10.3.1</td>
+			<td></td>
+		</tr>
 	</tbody>
 </table>
