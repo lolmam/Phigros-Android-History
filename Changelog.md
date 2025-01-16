@@ -16,6 +16,14 @@ This changelog is licensed under the **CC-BY-SA 3.0** license.
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.10.3.1 (120)
+</th>
+<td>2025-01-08
+</td>
+<td>
+<ul><li>Made modifications to some charts</li></ul>
+</td></tr>
+<tr>
 <th>3.10.3 (119)
 </th>
 <td>2024-12-27
