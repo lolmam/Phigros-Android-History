@@ -16,6 +16,17 @@ This changelog is licensed under the **CC-BY-SA 3.0** license.
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.10.4 (121)
+</th>
+<td>2025-1-15
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Shelter" title="Shelter">Shelter</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E8%9D%8E%E8%99%8E%E5%A4%A9%E4%BD%93_-Lacertid-" title="蝎虎天体 -Lacertid-">蝎虎天体 -Lacertid-</a></li></ul></li>
+<li>Made modifications to the IN chart of <a href="https://phigros.fandom.com/wiki/Kirakira_Noel_Story!!" title="Kirakira Noel Story!!">Kirakira Noel Story!!</a></li></ul>
+</td></tr>
+<tr>
 <th>3.10.3.1 (120)
 </th>
 <td>2025-01-08
@@ -26,7 +37,7 @@ This changelog is licensed under the **CC-BY-SA 3.0** license.
 <tr>
 <th>3.10.3 (119)
 </th>
-<td>2024-12-27
+<td>2024-12-25
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
