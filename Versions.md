@@ -38,7 +38,7 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>5</td>
 			<td>1.2.0</td>
-			<td>T</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.2.0">T</a></td>
 			</tr>
 		<tr>
 			<td>6</td>
