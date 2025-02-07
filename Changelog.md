@@ -20,7 +20,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.10.4 (121)
 </th>
-<td>2025-1-15
+<td>2025-01-15
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -84,7 +84,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.9.1 (113)
 </th>
-<td>2024-9-20
+<td>2024-09-20
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -94,7 +94,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.9.0.1 (112)
 </th>
-<td>2024-9-4
+<td>2024-09-04
 </td>
 <td>
 <ul><li>Made modifications to the IN charts of <a href="https://phigros.fandom.com/wiki/CROSS%E2%80%A0SOUL" title="CROSS†SOUL">CROSS†SOUL</a>, <a href="https://phigros.fandom.com/wiki/%E5%BF%83%E3%81%AE%E8%A8%98%E6%86%B6" title="心の記憶">心の記憶</a> and  AT chart of <a href="https://phigros.fandom.com/wiki/ATHAZA" title="ATHAZA">ATHAZA</a></li>
@@ -103,7 +103,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.9.0 (111)
 </th>
-<td>2024-8-31
+<td>2024-08-31
 </td>
 <td>
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Side_story_4_-_Animitta-Sabha" title="Songs">Side story 4 - Animitta-Sabha</a>
@@ -178,7 +178,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.6.3 (104)
 </th>
-<td>2024-5-31
+<td>2024-05-31
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -187,7 +187,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.6.2 (103)
 </th>
-<td>2024-5-10
+<td>2024-05-10
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -196,7 +196,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.6.1 (102)
 </th>
-<td>2024-4-26
+<td>2024-04-26
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -335,7 +335,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.2.1 (89)
 </th>
-<td>2023-9-29
+<td>2023-09-29
 </td>
 <td>
 <ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
@@ -346,7 +346,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <tr>
 <th>3.2.0 (87,88)
 </th>
-<td>2023-8-31
+<td>2023-08-31
 </td>
 <td>
 <ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_Story_-_BassAreUs" title="Songs">Extra Story - BassAreUs</a>
