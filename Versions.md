@@ -580,5 +580,20 @@ Full Changelog is [Here](Changelog.md)
 			<td>3.10.4</td>
 			<td></td>
 		</tr>
+		<tr>
+			<td>122</td>
+			<td>3.11.0</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>123</td>
+			<td>3.11.0.1</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>124</td>
+			<td>3.11.1</td>
+			<td></td>
+		</tr>
 	</tbody>
 </table>

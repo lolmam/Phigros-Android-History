@@ -18,6 +18,45 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.11.1 (124)
+</th>
+<td>2025-02-26
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Swing_Skip_Drop" title="Swing Skip Drop">Swing Skip Drop</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E5%AE%87%E5%AE%99%E6%AE%8B%E9%AA%B8%E5%B0%91%E5%A5%B3_(Cosmic_Dusty_Girl)" title="宇宙残骸少女 (Cosmic Dusty Girl)">宇宙残骸少女 (Cosmic Dusty Girl)</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.11.0.1 (123)
+</th>
+<td>2025-02-18
+</td>
+<td>
+<ul><li>Fixed a bug where <a href="https://phigros.fandom.com/wiki/Game_Mechanics#Rating" title="Game Mechanics"> Rating</a> cannot be set up normally after completing the Challenge Mode.</li>
+<li>Made modifications to some in-game text&nbsp;:
+<ul><li>2024 → 2025</li>
+<li>5 → 6</li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.11.0 (122)
+</th>
+<td>2025-02-12
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E3%82%A4%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89" title="インマイマインド">インマイマインド</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E3%83%8B%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%8A%E3%82%A4_(NiraicA_nai_Mix)" title="ニライカナイ (NiraicA nai Mix)">ニライカナイ (NiraicA_nai Mix)</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E8%B4%9D%E5%A4%9A%E8%8A%AC%E7%A5%9D%E7%A6%8F_(Beethoven_Blessing)" title="贝多芬祝福 (Beethoven Blessing)">贝多芬祝福 (Beethoven Blessing)</a> (CN Only)</li></ul></li>
+<li>Added AT difficulty for <a href="https://phigros.fandom.com/wiki/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD" title="Ποσειδών">Ποσειδών</a> and <a href="https://phigros.fandom.com/wiki/Ark" title="Ark">Ark</a></li>
+<li>The difficulty system of the charts has been adjusted
+<ul><li>Maximum difficulty raised from 16 to 17</li>
+<li>Added IN 16 difficulty</li>
+<li>Added AT 17 difficulty</li></ul></li>
+<li>Other bug fixes</li>
+<li>Made modifications to <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://static.wikia.nocookie.net/phigros/images/6/68/3.11.0_cc_change.png/revision/latest?cb=20250214152740%7C">some charts</a></li></ul>
+</td></tr>
+<tr>
 <th>3.10.4 (121)
 </th>
 <td>2025-01-15
