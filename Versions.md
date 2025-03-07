@@ -2,11 +2,13 @@
 
 Full Changelog is [Here](Changelog.md)
 
-**Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
+- **"G"** is for Google Play versions, **"T"** is for TapTap versions, and **NA** for available versions that **don't** work (APK is available but missing OBB or it doesn't install or launch).
 
-**(\*)** : Apk is available but no data (OBB).
+- **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
 
-**(\**)** :  
+- **(\*)** : Apk is available but no data (OBB).
+
+- **(\**)** :  
 
 <table style="width:100%;">
 <tbody>
