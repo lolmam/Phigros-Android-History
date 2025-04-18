@@ -15,7 +15,7 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 
 ## Notes
-1. **Version 3.11.1 (124)** is the latest version **"26/Feb/2025"**.
+1. **Version 3.12.0 (125)** is the latest version **"01/Apr/2025"**.
 2. The game updates around every **Wednesday at (09:00 AM UTC)**.
 3. **"G"** is for Google Play versions, **"T"** is for TapTap versions, and **NA** for versions that **don't** work (APK is available but missing OBB or it doesn't install or launch).
 4. Google Play versions **(G)** and TapTap versions **(T)** are not **compatible** with each other due to differences in their digital signatures.
