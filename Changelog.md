@@ -18,6 +18,24 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.12.0 (125?)
+</th>
+<td>2025-04-01
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_EGTS_Collection" title="Songs">Extra - EGTS Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Resolver" title="Resolver">Resolver</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Luminous_Entities_Lost_Heart" title="Luminous Entities Lost Heart">Luminous Entities Lost Heart</a></li>
+<li><a href="https://phigros.fandom.com/wiki/KIZUNA_Resolution" title="KIZUNA Resolution">KIZUNA Resolution</a></li>
+<li><a href="https://phigros.fandom.com/wiki/AbsoluTe_disoRdeR" title="AbsoluTe disoRdeR">AbsoluTe disoRdeR</a></li></ul></li>
+<li>Moved <a href="https://phigros.fandom.com/wiki/Silence_is_Golden,_Speech_is_Golden" title="Silence is Golden, Speech is Golden">Silence is Golden, Speech is Golden</a> and <a href="https://phigros.fandom.com/wiki/Fractured_Angel" title="Fractured Angel">Fractured Angel</a> to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_EGTS_Collection" title="Songs">Extra - EGTS Collection</a></li>
+<li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Legacy_Chapters" title="Songs">Legacy Chapters</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Dlyrotz_-SUPER_ULTIMATE_AMAZING_AWESOME_PRO_MAX_EXTRA_REMIX-" title="Dlyrotz -SUPER ULTIMATE AMAZING AWESOME PRO MAX EXTRA REMIX-">Dlyrotz -SUPER ULTIMATE AMAZING AWESOME PRO MAX EXTRA REMIX-</a></li></ul></li>
+<li>Other fixed bugs
+<ul><li>Fixed bugs where there is extra count in illustrion collection and All Song pack</li>
+<li>Fixed bug where <a href="https://phigros.fandom.com/wiki/Swing_Skip_Drop" title="Swing Skip Drop">Swing Skip Drop</a> drop 2 jackets instead of 1 and removed the 2nd that was completely white</li></ul></li></ul>
+</td></tr>
+<tr>
 <th>3.11.1 (124)
 </th>
 <td>2025-02-26
