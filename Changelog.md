@@ -18,7 +18,7 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <th width="70%">Changelog
 </th></tr>
 <tr>
-<th>3.12.0 (125?)
+<th>3.12.0 (125)
 </th>
 <td>2025-04-01
 </td>
