@@ -7,11 +7,22 @@ Welcome to the **Phigros Versions Archive**. This repository contains a list of 
 Huge thanks to [SteveZMTstudios](https://github.com/SteveZMTstudios) and his [Phigros-history](https://github.com/SteveZMTstudios/Phigros-history) repository for the old and missing versions.
 
 
-
 ## DISCLAIMER
 **"Phigros" is property of Pigeon Games.
 This Archive is not officially associated with Phigros or Pigeon Games in any way. 
 These APKs and files are provided as-is and by installing them you acknowledge full responsibility for any potential damage to your device.**
+
+## Archive Progress
+
+**Total versions released:** 111  
+**Versions found:** 100  
+**Versions missing:** 11  
+*(If you have any of them, feel free to contact me so I can add them to this archive.)*
+
+**Missing versions:**  
+`1.2.1, 1.2.2, 1.2.3, 1.2.5, 1.5.3, 1.5.5, 2.4.1, 2.4.2, 2.5.0, 3.1.1, 3.2.0`
+
+![90%](https://progress-bar.xyz/90/?style=neo-glass&title=Completion&width=300)
 
 
 ## Notes
