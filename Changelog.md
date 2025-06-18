@@ -18,6 +18,47 @@ Full details of the license can be found here: [CC-BY-SA License](https://creati
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.14.0 (128)
+</th>
+<td>2025-06-03
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_オンゲキ_Collection" title="Songs" bis_skin_checked="1">Extra - オンゲキ Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Radiance" title="Radiance" bis_skin_checked="1">Radiance</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Diamond_Dust" title="Diamond Dust" bis_skin_checked="1">Diamond Dust</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Stardust:RAY" title="Stardust:RAY" bis_skin_checked="1">Stardust:RAY</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.13.1 (127)
+</th>
+<td>2025-05-17
+</td>
+<td>
+<ul><li>Added a new song to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs" bis_skin_checked="1">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Alice_in_a_xxxxxxxx" title="Alice in a xxxxxxxx" bis_skin_checked="1">Alice in a xxxxxxxx</a></li></ul></li>
+<li>Fixed the bug that <a href="https://phigros.fandom.com/wiki/%E5%AE%87%E5%AE%99%E6%AE%8B%E9%AA%B8%E5%B0%91%E5%A5%B3_(Cosmic_Dusty_Girl)" title="宇宙残骸少女 (Cosmic Dusty Girl)" bis_skin_checked="1">宇宙残骸少女 (Cosmic Dusty Girl)</a> was incorrectly relocked after unlocking</li>
+<li>Fixed the bug that some visual effects are missing when playing <a href="https://phigros.fandom.com/wiki/%E9%87%8D%E7%94%9F" title="重生" bis_skin_checked="1">重生</a> using Revisit</li></ul>
+</td></tr>
+<tr>
+<th>3.13.0 (126)
+</th>
+<td>2025-04-18
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Immaculėe_Sekai_Collection" title="Songs" bis_skin_checked="1">Extra - Immaculėe Sekai Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Aphrodite%27s_Child_(short_ver.)" title="Aphrodite's Child (short ver.)" bis_skin_checked="1">Aphrodite's Child (short ver.)</a></li>
+<li><a href="https://phigros.fandom.com/wiki/DevIAtiOn_(short_ver.)" title="DevIAtiOn (short ver.)" bis_skin_checked="1">DevIAtiOn (short ver.)</a></li>
+<li><a href="https://phigros.fandom.com/wiki/NO_x" title="NO x" bis_skin_checked="1">NO x</a></li></ul></li>
+<li>Other fixed bugs
+<ul><li>Fixed a bug where when selecting Another Me with a lower sorting order as the background, it will be covered by Another Me with a higher sorting order when re-entering the player page</li>
+<li>Fixed a bug where all the unlocked song covers are Luminescence when playing Chapter 8 in OS mode with Replay</li>
+<li>Fixed a bug where the Result screen cannot be popped up when playing Crave Wave with Replay</li>
+<li>Fixed a bug where the chapter cover is missing when Chapters 5, 6, and 7 is not clear</li>
+<li>Fixed a bug where the Introduction as the Player background is missing when playing Phigros for the first time</li>
+<li>Fixed a bug where the Ul text of the replay button is displayed abnormally</li></ul></li>
+<li>TapTap accounts now need to be verified with Chinese ID to login.</li></ul>
+</td></tr>
+<tr>
 <th>3.12.0 (125)
 </th>
 <td>2025-04-01

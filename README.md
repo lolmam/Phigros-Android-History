@@ -14,8 +14,8 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 ## Archive Progress
 
-**Total versions released:** 111  
-**Versions found:** 100  
+**Total versions released:** 120  
+**Versions found:** 109  
 **Versions missing:** 11  
 *(If you have any of them, feel free to contact me so I can add them to this archive.)*
 
@@ -26,7 +26,7 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 
 ## Notes
-1. **Version 3.13.0 (126)** is the latest version **"18/Apr/2025"**.
+1. **Version 3.14.0 (128)** is the latest version **"03/Jun/2025"**.
 2. The game updates around every **Wednesday at (09:00 AM UTC)**.
 3. **"G"** is for Google Play versions, **"T"** is for TapTap versions, and **NA** for versions that **don't** work (APK is available but missing OBB or it doesn't install or launch).
 4. Google Play versions **(G)** and TapTap versions **(T)** are not **compatible** with each other due to differences in their digital signatures.
