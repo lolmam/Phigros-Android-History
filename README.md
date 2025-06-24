@@ -24,6 +24,12 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 
 ![90%](https://progress-bar.xyz/90/?style=neo-glass&title=Completion&width=300)
 
+## Versions Table
+You can find a list of all available versions along with their supported platforms in the [Versions Table](Versions.md).
+
+
+## Changelog
+The full changelog for each version is available in the [Changelog](Changelog.md).
 
 ## Notes
 1. **Version 3.14.0 (128)** is the latest version **"03/Jun/2025"**.
@@ -44,10 +50,3 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 5. **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.
  
 6. If you need help, or have any older versions, open an issue or message me on Discord: [@lol.mam](https://discordapp.com/users/700052852047085649).
-
-## Versions Table
-You can find a list of all available versions along with their supported platforms in the [Versions Table](Versions.md).
-
-
-## Changelog
-The full changelog for each version is available in the [Changelog](Changelog.md).
