@@ -28,6 +28,7 @@ These APKs and files are provided as-is and by installing them you acknowledge f
 You can find a list of all available versions along with their supported platforms in the [Versions Table](Versions.md).
 
 
+For instructions on how to install check [How to Install](Install.md).
 ## Changelog
 The full changelog for each version is available in the [Changelog](Changelog.md).
 
