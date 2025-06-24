@@ -16,31 +16,37 @@ Full Changelog is [Here](Changelog.md)
 			<th width="15%">Version Code</th>
 			<th width="15%">Version</th>
 			<th width="20%">Available</th>
+			<th width="20%">Link</th>
 		</tr>
 		<tr>
 			<td>1</td>
 			<td>1.0.0</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.0">T</a></td>
+			<td>TapTap</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.0">Download</a></td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>1.0.1</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.1">T</a></td>
+			<td>TapTap</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.1">Download</a></td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>1.1.0</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.0">T</a></td>
+			<td>TapTap</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.0">Download</a></td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>1.1.1</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.1">T</a></td>
+			<td>TapTap</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.1">Download</a></td>
 			</tr>
 		<tr>
 			<td>5</td>
 			<td>1.2.0</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.2.0">T</a></td>
+			<td>TapTap</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.2.0">Download</a></td>
 			</tr>
 		<tr>
 			<td>6</td>
@@ -60,7 +66,8 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>9</td>
 			<td>1.2.4</td>
-			<td>T</td>
+			<td>TapTap</td>
+			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.2.4">Download</a></td>
 			</tr>
 		<tr>
 			<td>10</td>
@@ -70,17 +77,20 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>11</td>
 			<td>1.3.0</td>
-			<td>G</td>
+			<td>Google Play</td>
+			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.3.0/11">Download</a></td>
 			</tr>
 		<tr>
 			<td>12</td>
 			<td>1.3.0</td>
-			<td>G</td>
+			<td>Google Play</td>
+			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.3.0/12">Download</a></td>
 			</tr>
 		<tr>
 			<td>14</td>
 			<td>1.3.1</td>
-			<td>G</td>
+			<td>Google Play</td>
+			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.3.1/14">Download</a></td>
 			</tr>
 		<tr>
 			<td>15</td>
