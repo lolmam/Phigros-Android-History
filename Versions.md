@@ -381,7 +381,7 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>74</td>
 			<td>2.5.0.1</td>
-			<td>T</td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>77</td>
@@ -391,17 +391,17 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>78</td>
 			<td>3.0.0</td>
-			<td>T</td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>79</td>
 			<td>3.0.0.1</td>
-			<td>T</td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>80</td>
 			<td>3.0.1</td>
-			<td>T</td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>81</td>
@@ -416,7 +416,7 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>83</td>
 			<td>3.1.1</td>
-			<td>No</td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>84</td>
@@ -436,7 +436,7 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>87</td>
 			<td>3.2.0</td>
-			<td>No</td>
+			<td>G</td>
 		</tr>
 		<tr>
 			<td>88</td>
