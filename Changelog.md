@@ -1,13 +1,13 @@
-# Changelog from [Phigros Wiki | Fandom](https://phigros.fandom.com/)
+# Changelog
 
-This changelog includes modifications to the original table sourced from the Phigros wiki at Fandom, licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA)**.
+This changelog includes modifications to a table sourced from the [Phigros Wiki | Fandom](https://phigros.fandom.com/), originally licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA 3.0)**.
 
-The table has been modified for this repository to include additional entries and updates based on the repository's context.
+The table has been adapted to fit the context of this repository, including updates such as version codes, date corrections, and added changelogs for missing releases.
 
-## License
-This file (changelog.md) is licensed under the **Creative Commons Attribution-ShareAlike 3.0 International License (CC-BY-SA)**.
+## License Notice
 
-Full details of the license can be found here: [CC-BY-SA License](https://creativecommons.org/licenses/by-sa/3.0/)
+This table and any use of it (including in the Releases section) remains under the **CC-BY-SA 3.0 License**.  
+[View license details here.](https://creativecommons.org/licenses/by-sa/3.0/)
 
 <table class="wikitable" style="width:100%;">
 <tbody><tr>
