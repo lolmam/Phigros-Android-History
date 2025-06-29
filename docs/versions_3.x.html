@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phigros Versions</title>
+  <link rel="stylesheet" href="style/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="background"></div>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="versions.html" class="active">Versions</a></li>
+        <li><a href="install.html">Install Guide</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>All Phigros Versions</h1>
+	<h2>(Still in progress)</h2>
+    <p>Browse available version below. Each includes changelog info and download links.</p>
+
+    <div class="version-list">
+
+      <!-- Version Cards -->
+      <div class="version-card">
+		<h2>Phigros 3.14.0 (128) <span class="tag_G">Google</span><span class="tag_T">TapTap</span></h2>
+		<p class="version-date">Released: 2025-06-03</p>
+			<p class="changelog"></p>
+			
+			<ul class="changelog-list">
+				<li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_オンゲキ_Collection" title="Songs" bis_skin_checked="1">Extra - オンゲキ Collection</a>
+				<ul>
+					<li><a href="https://phigros.fandom.com/wiki/Radiance" title="Radiance" bis_skin_checked="1">Radiance</a></li>
+					<li><a href="https://phigros.fandom.com/wiki/Diamond_Dust" title="Diamond Dust" bis_skin_checked="1">Diamond Dust</a></li>
+					<li><a href="https://phigros.fandom.com/wiki/Stardust:RAY" title="Stardust:RAY" bis_skin_checked="1">Stardust:RAY</a></li>
+				</ul>
+				</li>
+			</ul>
+
+
+			<!-- Toggle Button -->
+			<button class="dropdown-toggle" onclick="toggleDropdown(this)">
+				<span class="arrow">&#9654;</span> Show File Info
+			</button>
+
+			<!-- Hidden Content -->
+			<div class="dropdown-content">
+				<p><strong>File Name:</strong> Phigros_3.14.0_T.apk</p>
+				<p><strong>Version:</strong> 3.14.0</p>
+				<p><strong>Version Code:</strong> 128</p>
+				<p><strong>Package Name:</strong> com.PigeonGames.Phigros</p>
+				<p><strong>MD5 =</strong>    B56B181868886C59BD91186E7A703FF4</p>
+				<p><strong>SHA1 =</strong>   789D9874FC1E085FE15709D8DBD1684DB3CC5F1E</p>
+				<p><strong>SHA2-256 =</strong> 9C9C8A6EAC88BB937F4798BABED3672156C9FC0BAD851667855005ED92303C9D</p>
+				<p><strong><br>Signature Details:</strong></p>
+				<p><strong><br>Signer #1 certificate DN:</strong> O=Pigeon Games</p>
+				<p><strong>Signer #1 certificate SHA-256 digest:</strong> </p>
+				<p>0e16f73cf035f1ffdb251c1f347843f4994457f7ca9c75948343e117be98e26f</p>
+				<p><strong>Signer #1 certificate SHA-1 digest:</strong></p>
+				<p>ef5ec0632ea82cf0f2a1f73c18128c7955fe390c</p>
+				<p><strong>Signer #1 certificate MD5 digest:</strong></p>
+				<p>0e5e1da55e7625e673dcab5c21ae3d6a</p>
+				<p><strong>Signer #1 key algorithm:</strong> RSA</p>
+				<p><strong>Signer #1 key size (bits):</strong> 2048</p>
+				<p><strong>Signer #1 public key SHA-256 digest:</strong> </p>
+				<p>e19d462b241420577f5a31a0b981745a47a3c07774eb43eb664ad84c9b77897f</p>
+				<p><strong>Signer #1 public key SHA-1 digest:</strong></p>
+				<p>a3355ec988d32c4fc7bc48544936385818c89ca4</p>
+				<p><strong>Signer #1 public key MD5 digest:</strong> </p>
+				<p>4f1a4fa83c6d9d17ac7196d161bfff0d</p>
+			</div>
+			<h2></h2>
+			<div class="buttons">
+				<a href="#" class="btn">Download APK</a>
+				<a href="#" class="btn alt">Download OBB</a>
+			</div>
+		</div>
+	
+		<h2></h2>
+      <!-- More versions here -->
+	  
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 phigros.lolmam.top — made with ❤️ for archival purposes</p>
+  </footer>
+</body>
+</html>
+
+<script>
+  function toggleDropdown(button) {
+    const content = button.nextElementSibling;
+    const arrow = button.querySelector('.arrow');
+    const isOpen = content.style.display === 'block';
+
+    content.style.display = isOpen ? 'none' : 'block';
+    button.classList.toggle('open', !isOpen);
+    button.innerHTML = `
+      <span class="arrow" style="transform: ${isOpen ? 'rotate(0deg)' : 'rotate(90deg)'}">&#9654;</span>
+      ${isOpen ? 'Show File Info' : 'Hide File Info'}
+    `;
+  }
+</script>
