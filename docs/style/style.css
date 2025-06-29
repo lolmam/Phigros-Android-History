@@ -306,6 +306,11 @@ footer {
   text-decoration: underline;
 }
 
+.install-list code {
+  font-size: 0.9rem;
+}
+
+
 .install-list pre {
   background: #111;
   border: 1px solid #333;
