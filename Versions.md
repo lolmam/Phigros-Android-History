@@ -16,7 +16,6 @@ Full Changelog is [Here](Changelog.md)
 			<th width="15%">Version Code</th>
 			<th width="15%">Version</th>
 			<th width="20%">Available</th>
-			<th width="20%">Link</th>
 		</tr>
 		<tr>
 			<td>1</td>
