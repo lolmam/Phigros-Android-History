@@ -18,6 +18,16 @@ This table and any use of it (including in the Releases section) remains under t
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.14.1 (129)
+</th>
+<td>2025-06-25
+</td>
+<td>
+<ul><li>Added a new song to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs" bis_skin_checked="1">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Frozen_Heart" title="Frozen Heart" bis_skin_checked="1">Frozen Heart</a></li></ul></li>
+<li>Made modifications to the EZ chart of <a href="https://phigros.fandom.com/wiki/Stardust:RAY" title="Stardust:RAY" bis_skin_checked="1">Stardust:RAY</a></li></ul>
+</td></tr>
+<tr>
 <th>3.14.0 (128)
 </th>
 <td>2025-06-03
@@ -1306,12 +1316,12 @@ This table and any use of it (including in the Releases section) remains under t
 <td>2020-03-02
 </td>
 <td>
-<ul><li>Added Google Play Games support</li></ul>
-<ul><li>Fixed an issue where the chapter selection screen did not display properly</li></ul>
-<ul><li>Fixed an issue where a collectible could not be collected</li></ul>
-<ul><li>Modified some collectibles</li></ul>
-<ul><li>Fixed an issue where sound could not play properly when entering a hidden song for the first time</li></ul>
-<ul><li>Data mining adjustments</li></ul>
+<ul><li>Added Google Play Games support</li>
+<li>Fixed an issue where the chapter selection screen did not display properly</li>
+<li>Fixed an issue where a collectible could not be collected</li>
+<li>Modified some collectibles</li>
+<li>Fixed an issue where sound could not play properly when entering a hidden song for the first time</li>
+<li>Data mining adjustments</li></ul>
 </td></tr>
 <tr>
 <th>1.3.0 (11,12)
@@ -1323,7 +1333,7 @@ This table and any use of it (including in the Releases section) remains under t
 <ul><li><a href="https://phigros.fandom.com/wiki/NYA!!!" class="mw-redirect" title="NYA!!!">NYA!!!</a></li>
 <li><a href="https://phigros.fandom.com/wiki/JunXion_Between_Life_And_Death(VIP_Mix)" title="JunXion Between Life And Death(VIP Mix)">JunXion Between Life And Death(VIP Mix)</a></li>
 <li><a href="https://phigros.fandom.com/wiki/Cryout" title="Cryout">cryout</a></li>
-<li><a href="/wiki/Reimei" title="Reimei">Reimei</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Reimei" title="Reimei">Reimei</a></li>
 <li><a href="https://phigros.fandom.com/wiki/%E5%B0%8A%E5%B8%AB_%EF%BD%9EThe_Guru%EF%BD%9E" title="尊師 ～The Guru～">尊師 ～The Guru～</a></li>
 <li><a href="https://phigros.fandom.com/wiki/Spasmodic" title="Spasmodic">Spasmodic</a></li></ul></li>
 <li>Removed <a href="https://phigros.fandom.com/wiki/Winter_%E2%86%91cube%E2%86%93_(Original_mix)" title="Winter ↑cube↓ (Original mix)">Winter ↑cube↓ (Original mix)</a></li>

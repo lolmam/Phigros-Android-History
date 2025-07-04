@@ -185,20 +185,29 @@ footer {
   text-transform: uppercase;
 }
 
+.tag_UnOff {
+  font-size: 0.75rem;
+  background: #fc0303;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 .version-date {
   font-size: 0.85rem;
   color: #d9d9d9;
   margin-top: -8px;
-  margin-bottom: 10px;
+  margin-bottom:8px;
   margin-left: 2px;
 }
 
 
 .changelog {
   color: #ccc;
-  margin-bottom: 15px;
+  margin-bottom: 2px;
   font-size: 0.95rem;
-  white-space: pre-line;
 }
 
 .version-card .buttons {
@@ -259,7 +268,7 @@ footer {
 
 .changelog-list {
   padding-left: 20px;
-  margin: 10px 0 0 0;
+  margin: 5px 0 0 0;
   color: #ccc;
   font-size: 0.95rem;
 }
@@ -322,4 +331,26 @@ footer {
   font-size: 0.9rem;
   word-wrap: break-word;
   white-space: pre-wrap;
+}
+
+
+.btn-unavailable {
+  display: inline-block;
+  padding: 10px 18px;
+  text-align: center;
+  background: #444;
+  color: #888;
+  border: 1px solid #333;
+  cursor: not-allowed;
+  padding: 12px 24px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.sub-variant {
+  margin-top: 20px;
+  font-size: 1.05rem;
+  color: #ccc;
+  font-weight: 600;
 }
