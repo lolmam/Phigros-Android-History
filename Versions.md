@@ -22,32 +22,27 @@ Full Changelog is [Here](Changelog.md)
 			<td>1</td>
 			<td>1.0.0</td>
 			<td>TapTap</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.0">Download</a></td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>1.0.1</td>
 			<td>TapTap</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.0.1">Download</a></td>
 		</tr>
 		<tr>
 			<td>3</td>
 			<td>1.1.0</td>
 			<td>TapTap</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.0">Download</a></td>
 		</tr>
 		<tr>
 			<td>4</td>
 			<td>1.1.1</td>
 			<td>TapTap</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.1.1">Download</a></td>
-			</tr>
+		</tr>
 		<tr>
 			<td>5</td>
 			<td>1.2.0</td>
 			<td>TapTap</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.2.0">Download</a></td>
-			</tr>
+		</tr>
 		<tr>
 			<td>6</td>
 			<td>1.2.1</td>
@@ -67,7 +62,6 @@ Full Changelog is [Here](Changelog.md)
 			<td>9</td>
 			<td>1.2.4</td>
 			<td>TapTap</td>
-			<td><a href="https://github.com/lolmam/Phigros-Android-History/releases/tag/v1.2.4">Download</a></td>
 			</tr>
 		<tr>
 			<td>10</td>
@@ -78,19 +72,16 @@ Full Changelog is [Here](Changelog.md)
 			<td>11</td>
 			<td>1.3.0</td>
 			<td>Google Play</td>
-			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.3.0/11">Download</a></td>
 			</tr>
 		<tr>
 			<td>12</td>
 			<td>1.3.0</td>
 			<td>Google Play</td>
-			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.3.0/12">Download</a></td>
 			</tr>
 		<tr>
 			<td>14</td>
 			<td>1.3.1</td>
 			<td>Google Play</td>
-			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.3.1/14">Download</a></td>
 			</tr>
 		<tr>
 			<td>15</td>
@@ -261,7 +252,6 @@ Full Changelog is [Here](Changelog.md)
 			<td>49</td>
 			<td>1.6.10</td>
 			<td>TapTap</td>
-			<td><a href="https://huggingface.co/datasets/lolmam/Phigros-Android-History-Data/tree/main/Phigros/1.6.10/49">Download</a></td>
 		</tr>
 		<tr>
 			<td>50</td>
