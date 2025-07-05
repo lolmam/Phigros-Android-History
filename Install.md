@@ -1,6 +1,6 @@
 # How to Install
 
-1. Download the APK and the OBB (if required) file from the [Versions Table](Versions.md).
+1. Download the APK and the OBB (if required) file from the [Phigros Android History Website](https://phigros.lolmam.top).
 
 2. Install the APK on your Android device.
 
