@@ -2,6 +2,8 @@
 
 Full Changelog is [Here](Changelog.md)
 
+### **Downloads moved to the [Phigros Android History Website](https://phigros.lolmam.top)**
+
 - **"G"** is for Google Play versions, **"T"** is for TapTap versions, and **NA** for versions that **don't** work (APK is available but missing OBB or it doesn't install or launch).
 
 - **Unavailable version codes (They don't exist): (13, 40, 67, 75, 76, 107, 114, 117)**.

@@ -36,7 +36,7 @@ The full changelog for each version is available in the [Changelog](Changelog.md
 1. **Version 3.14.1 (129)** is the latest version **"25/Jun/2025"**.
 2. The game updates around every **Wednesday at (09:00 AM UTC)**.
 3. **"G"** is for Google Play versions, **"T"** is for TapTap versions, and **NA** for versions that **don't** work (APK is available but missing OBB or it doesn't install or launch).
-4. Google Play versions **(G)** and TapTap versions **(T)** are not **compatible** with each other due to differences in their digital signatures.
+4. Google Play versions **(G)** and TapTap versions **(T)** are **not compatible** with each other due to differences in their digital signatures.
 
 	• Google Play versions are signed by **Google**.
 	
