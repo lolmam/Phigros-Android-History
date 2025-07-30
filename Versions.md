@@ -610,22 +610,22 @@ Full Changelog is [Here](Changelog.md)
 		<tr>
 			<td>127</td>
 			<td>3.13.1</td>
-			<td></td>
+			<td>Google Play</td>
 		</tr>
 		<tr>
 			<td>128</td>
 			<td>3.14.0</td>
-			<td>TapTap</td>
+			<td>Google Play</td>
 		</tr>
 		<tr>
 			<td>129</td>
 			<td>3.14.1</td>
-			<td></td>
+			<td>Google Play</td>
 		</tr>
 		<tr>
 			<td>130</td>
 			<td>3.14.2</td>
-			<td></td>
+			<td>Google Play</td>
 		</tr>
 	</tbody>
 </table>
