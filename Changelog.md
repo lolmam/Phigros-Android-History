@@ -18,6 +18,16 @@ This table and any use of it (including in the website versions) remains under t
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.14.2 (130)
+</th>
+<td>2025-07-16
+</td>
+<td>
+<ul><li>Added a new song to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs" bis_skin_checked="1">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Helios" title="Helios" bis_skin_checked="1">Helios</a></li></ul></li>
+<li>Made modifications to the IN chart of <a href="https://phigros.fandom.com/wiki/Frozen_Heart" title="Frozen Heart" bis_skin_checked="1">Frozen Heart</a></li></ul>
+</td></tr>
+<tr>
 <th>3.14.1 (129)
 </th>
 <td>2025-06-25
