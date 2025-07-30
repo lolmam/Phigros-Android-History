@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phigros Versions</title>
+  <link rel="stylesheet" href="../style/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="../style/1.X.N.png">
+</head>
+<body>
+  <div class="background"></div>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="https://phigros.lolmam.top/">Home</a></li>
+		<li class="has-submenu">
+		  <a href="#" class="active" onclick="toggleSubmenu(event)">Versions</a>
+		  <ul class="submenu">
+			<li><a href="versions_1.x">1.X</a></li>
+			<li><a href="versions_2.x">2.X</a></li>
+			<li><a href="versions_3.x">3.X</a></li>
+		  </ul>
+		</li>
+        <li><a href="../install">Install Guide</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  
+
+  <main class="container">
+    <h1>All Phigros Versions</h1>
+	<h2>(Still in progress)</h2>
+    <p>Select a main version to explore it's sub versions</p>
+
+   <div class="cta-buttons">
+				<a href="versions_3.x" class="btn">3.X Versions</a>
+				<a href="versions_2.x" class="btn">2.X Versions</a>
+				<a href="versions_1.x" class="btn">1.X Versions</a>
+			</div>
+
+    </div>
+  </main>
+
+  <footer>
+    <a href="https://gitlab.com/lolmam/Phigros-Android-History">Phigros Android History</a> © 2024 – 2025 by lol.mam is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+	<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+	<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+	<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+	<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+  </footer>
+</body>
+</html>
+
+<script>
+  function toggleSubmenu(e) {
+    e.preventDefault();
+    const parent = e.target.closest('.has-submenu');
+    parent.classList.toggle('open');
+  }
+</script>

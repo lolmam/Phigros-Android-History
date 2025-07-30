@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phigros Android History</title>
+  <link rel="stylesheet" href="style/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="style/1.X.N.png">
+</head>
+<body>
+  <div class="background"></div>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="https://phigros.lolmam.top/" class="active">Home</a></li>
+        <li><a href="versions">Versions</a></li>
+        <li><a href="install">Install Guide</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1>Phigros Android History</h1>
+    <p>This project is a collection and archive of different versions of <strong>Phigros</strong> on Android.</p>
+    <p>You’ll find changelogs, download links, installation help, and more, carefully organized for both <strong>G</strong> (Google Play), <strong>T</strong> (TapTap), and other versions.</p>
+	<p><strong>(Still in progress)</strong></p>
+	<p id="download-count">Loading downloads...</p>
+	
+	<h2><a href="https://gitlab.com/lolmam/Phigros-Android-History">View Project on GitLab</a></h2>
+
+    <div class="cta-buttons">
+      <a href="versions" class="btn">View Versions</a>
+      <a href="install" class="btn alt">How to Install</a>
+    </div>
+  </main>
+
+  <footer>
+    <a href="https://gitlab.com/lolmam/Phigros-Android-History">Phigros Android History</a> © 2024 – 2025 by lol.mam is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+	<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+	<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+	<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+	<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA" style="max-width: 1em; max-height:1em; margin-left: .2em;">
+  </footer>
+</body>
+</html>
+
+<script>
+  fetch("https://files.phigros.lolmam.top/stats")
+    .then(res => res.text())
+    .then(text => {
+      document.getElementById("download-count").innerText = text;
+    })
+    .catch(err => {
+      document.getElementById("download-count").innerText = "Couldn't load download count.";
+      console.error("Failed to load count:", err);
+    });
+</script>
