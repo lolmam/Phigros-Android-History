@@ -5,7 +5,7 @@
 ![Downloads](https://files.phigros.lolmam.top/badge)
 
 
-Welcome to the **Phigros Versions Archive**. This repository contains a list of (almost) every released version of the game Phigros, including version codes and some TapTap versions.
+Welcome to the **Phigros Versions Archive**. This repository contains a list of (almost) every released Google Play version of the game Phigros, including version codes and some TapTap versions.
 
 Huge thanks to [SteveZMTstudios](https://github.com/SteveZMTstudios) and his [Phigros-history](https://github.com/SteveZMTstudios/Phigros-history) repository for the old and missing versions.
 

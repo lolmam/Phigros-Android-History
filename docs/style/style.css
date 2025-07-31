@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+a {
+  color: #00bfff;
+}
+
 body {
   font-family: 'Exo', sans-serif;
   background: #0e0e0e;
