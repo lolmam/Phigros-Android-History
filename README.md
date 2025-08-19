@@ -21,15 +21,15 @@ For license and attribution info check [NOTICE.md](NOTICE.md)
 
 ## Archive Progress
 
-**Total versions released:** 122  
-**Versions found:** 113  
+**Total versions released:** 123  
+**Versions found:** 114  
 **Versions missing:** 9  
 *(If you have any of them, feel free to contact me so I can add them to this archive.)*
 
 **Missing versions:**  
 `1.2.1, 1.2.2, 1.2.3, 1.2.5, 1.5.3, 1.5.5, 2.4.1, 2.4.2, 2.5.0`
 
-![92.5%](https://progress-bar.xyz/92/?style=neo-glass&title=Completion&width=300)
+![92.6%](https://progress-bar.xyz/92/?style=neo-glass&title=Completion&width=300)
 
 ## Versions Table
 You can find a list of all available versions along with their supported platforms in the [Versions Table](Versions.md).
