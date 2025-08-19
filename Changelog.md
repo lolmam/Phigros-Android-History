@@ -18,6 +18,17 @@ This table and any use of it (including in the website versions) remains under t
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.15.0 (131)
+</th>
+<td>2025-08-06
+</td>
+<td>
+<ul><li>Added new songs to <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_KALPA_Collection" title="Songs">Extra - KALPA Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Flutter_Echo" title="Flutter Echo">Flutter Echo</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Re%EF%BC%9Abirth" title="Re：birth">Re：birth</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Avataar~Reincarnation_of_Kalpa~" title="Avataar~Reincarnation of Kalpa~">Avataar~Reincarnation of Kalpa~</a></li></ul></li></ul>
+</td></tr>
+<tr>
 <th>3.14.2 (130)
 </th>
 <td>2025-07-16
