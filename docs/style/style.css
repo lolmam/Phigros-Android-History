@@ -93,7 +93,7 @@ h1 {
 
 p {
   font-size: 1.1rem;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   color: #dddddd;
 }
 
@@ -439,4 +439,52 @@ a.back-to-top:hover {
   font-weight: bold;
   color: #0077cc;
   font-family: monospace;
+}
+
+.home-dropdown-toggle {
+  background: none;
+  border: none;
+  color: #2f80ed;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: color 0.2s;
+  border-radius: 8px;
+}
+
+.home-dropdown-toggle:hover {
+  color: #4fa1ff;
+}
+
+.home-dropdown-toggle .arrow-left,
+.home-dropdown-toggle .arrow-right {
+  display: inline-block;
+  transition: transform 0.22s ease;
+  line-height: 1;
+  font-size: 1rem;
+}
+
+.home-dropdown-toggle.open .arrow-left {
+  transform: rotate(90deg);
+}
+.home-dropdown-toggle.open .arrow-right {
+  transform: rotate(-90deg);
+}
+
+.home-dropdown-content {
+  display: none;
+  background: #111;
+  border: 1px solid #333;
+  border-radius: 6px;
+  color: #ccc;
+  margin: 5px auto 5px;
+  font-size: 0.9rem;
+  max-width: 540px;
+  padding: 6px 12px;
+  text-align: center;
+  word-wrap: break-word;
 }

@@ -8,7 +8,7 @@ This archive was created and maintained by **lol.mam**.
 
 You are free to share and adapt this content for non-commercial use, as long as you credit lol.mam and license your contributions under the same terms.
 
-Full license details: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+See license for full details: [LICENSE](LICENSE)
 
 ## Third-Party Content
 
