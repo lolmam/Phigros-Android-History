@@ -14,7 +14,7 @@
   <header>
     <nav>
       <ul>
-        <li><a href="https://phigros.lolmam.top/">Home</a></li>
+        <li><a href="../../">Home</a></li>
         <li class="has-submenu">
 		  <a href="#" class="active" onclick="toggleSubmenu(event)">Versions</a>
 		  <ul class="submenu">
@@ -2317,21 +2317,35 @@
 </html>
 
 <script>
-  function toggleSubmenu(e) {
-    e.preventDefault();
-    const parent = e.target.closest('.has-submenu');
-    parent.classList.toggle('open');
-  }
-  function toggleDropdown(button) {
-    const content = button.nextElementSibling;
-    const arrow = button.querySelector('.arrow');
-    const isOpen = content.style.display === 'block';
+    function toggleSubmenu(e) {
+      e.preventDefault();
+      const parent = e.target.closest('.has-submenu');
+      parent.classList.toggle('open');
+    }
+    function toggleDropdown(button) {
+      const content = button.nextElementSibling;
+      const arrow = button.querySelector('.arrow');
+      const isOpen = content.style.display === 'block';
 
-    content.style.display = isOpen ? 'none' : 'block';
-    button.classList.toggle('open', !isOpen);
-    button.innerHTML = `
-      <span class="arrow" style="transform: ${isOpen ? 'rotate(0deg)' : 'rotate(90deg)'}">&#9654;</span>
-      ${isOpen ? 'Show File Info' : 'Hide File Info'}
-    `;
-  }
+      content.style.display = isOpen ? 'none' : 'block';
+      button.classList.toggle('open', !isOpen);
+      button.innerHTML = `
+        <span class="arrow" style="transform: ${isOpen ? 'rotate(0deg)' : 'rotate(90deg)'}">&#9654;</span>
+        ${isOpen ? 'Show File Info' : 'Hide File Info'}
+      `;
+    }
+  	function highlightHash() {
+	  if (window.location.hash) {
+		const target = document.querySelector(window.location.hash);
+		if (target) {
+		  setTimeout(() => {
+			target.classList.add("highlight");
+			setTimeout(() => target.classList.remove("highlight"), 2000);
+		  }, 700);
+		}
+	  }
+	}
+
+	window.addEventListener("DOMContentLoaded", highlightHash);
+	window.addEventListener("hashchange", highlightHash);
 </script>

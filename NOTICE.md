@@ -22,4 +22,4 @@ See license for full details: [LICENSE](LICENSE)
 
 ---
 
-If you are a copyright holder and wish to request removal of any content, please contact me through the project repository.
+If you are a copyright holder and wish to request removal of any content, please contact me through copyright@lolmam.top

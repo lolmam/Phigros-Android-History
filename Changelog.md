@@ -18,6 +18,20 @@ This table and any use of it (including in the website versions) remains under t
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.15.1 (132)
+</th>
+<td>2025-08-28
+</td>
+<td>
+<ul><li>Added 2 new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E9%9B%AA%E9%99%8D%E3%82%8A_~%E9%9B%AA%E3%81%8C%E9%99%8D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B~" title="雪降り ~雪が降っている~">雪降り ~雪が降っている~</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Retribution_~_Cycle_of_Redemption_~" title="Retribution ~ Cycle of Redemption ~">Retribution ~ Cycle of Redemption ~ </a></li></ul></li>
+<li>Added AT difficulty for <a href="https://phigros.fandom.com/wiki/PANIC_PARADISE" title="PANIC PARADISE">PANIC PARADISE</a> and <a href="https://phigros.fandom.com/wiki/Der_Richter" title="Der Richter">Der Richter</a></li>
+<li>Made modifications to the EZ and IN chart of <a href="https://phigros.fandom.com/wiki/Re%EF%BC%9Abirth" title="Re：birth">Re：birth</a></li>
+<li>Made modifications to <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://static.wikia.nocookie.net/phigros/images/8/8c/Cc_changing_3.15.1_%28fixed%29.png/revision/latest?cb=20250903045917%7C">some charts</a></li>
+<li>Fixed title of <a href="https://phigros.fandom.com/wiki/Avataar_~Reincarnation_of_Kalpa~" title="Avataar ~Reincarnation of Kalpa~">Avataar ~Reincarnation of Kalpa~</a></li></ul>
+</td></tr>
+<tr>
 <th>3.15.0 (131)
 </th>
 <td>2025-08-06
