@@ -14,7 +14,7 @@ See license for full details: [LICENSE](LICENSE)
 
 - Phigros APK files, icons, and backgrounds are copyrighted by **Pigeon Games**. They are included here solely for archival and preservation purposes with no commercial intent.
 
-- The changelog table in [Changelog](Changelog.md) is based on content from the Phigros Wiki, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
+- The changelog table in [Changelog](Changelog.md) and it's usage in the website is based on content from the Phigros Wiki, licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).  
   Original source: [Phigros Wiki | Fandom](https://phigros.fandom.com/)
   
 - The website **files.phigros.lolmam.top** uses a background image from this archive, which remains the property of **Pigeon Games**.  
