@@ -24,7 +24,7 @@
   <main class="container">
     <h1>Phigros Android Versions</h1>
     <p>Welcome to the fan made archive of almost every <strong>Phigros</strong> Android version. 
-      Find available versions, changelogs, and installation help for Google Play, TapTap, and other versions.</p>
+      Find available versions, changelogs, and installation help for <strong>Google Play,</strong> <strong>TapTap</strong> and other versions.</p>
     <p id="download-count">Loading downloads...</p>
 
 	<section class="archive-stats">
@@ -80,6 +80,33 @@
 		content.setAttribute("aria-hidden", isOpen ? "false" : "true");
 	  });
 	}
+	
+	// short url for jumping to versions
+	document.addEventListener("DOMContentLoaded", () => {
+	  const allowedMajors = ["1", "2", "3"];
+	  const hash = window.location.hash.trim();
+	  if (!hash.startsWith("#v")) return;
+	  const fullMatch = hash.match(/^#v(\d+)-(\d+)-(\d+)$/);
+	  const majorMatch = hash.match(/^#v(\d+)$/);
+	  let target = null;
+	  let major = null;
+	  if (fullMatch) {
+		major = fullMatch[1];
+		if (allowedMajors.includes(major)) {
+		  target = `/versions/versions_${major}.x/${hash}`;
+		}
+	  } else if (majorMatch) {
+		major = majorMatch[1];
+		if (allowedMajors.includes(major)) {
+		  target = `/versions/versions_${major}.x/`;
+		}
+	  }
+	  if (target) {
+		window.location.replace(target);
+	  } else {
+		window.location.replace("/404.html");
+	  }
+	});
   </script>
 </body>
 </html>
