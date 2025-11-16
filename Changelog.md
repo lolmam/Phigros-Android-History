@@ -18,6 +18,53 @@ This table and any use of it (including in the website versions) remains under t
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.17.0.1 (136)
+</th>
+<td>2025-10-31
+</td>
+<td>
+<ul><li>Fixed a bug where players cannot enter the game (which is black screen when enter the game).</li>
+<li>Fixed a bug where the title of <a href="https://phigros.fandom.com/wiki/%E7%99%BE%E9%AC%BC%D6%8E%E5%A4%9C%E8%A1%8C" title="百鬼֎夜行">百鬼֎夜行</a> can't be displayed properly in the song playing scene</li>
+<li>Replaced the illustration for <a href="https://phigros.fandom.com/wiki/BANGING_STRIKE" title="BANGING STRIKE">BANGING STRIKE</a></li></ul>
+</td></tr>
+<tr>
+<th>3.17.0 (135)
+</th>
+<td>2025-10-31
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_Liminality_Collection" title="Songs">Extra - Liminality Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Xep%2Bion" title="Xep+ion">Xep+ion</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Archidoxen" title="Archidoxen">Archidoxen</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E7%99%BE%E9%AC%BC%D6%8E%E5%A4%9C%E8%A1%8C" title="百鬼֎夜行">百鬼֎夜行</a></li></ul></li>
+<li>Added a new song to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/BANGING_STRIKE" title="BANGING STRIKE">BANGING STRIKE</a></li></ul></li></ul>
+</td></tr>
+<tr>
+<th>3.16.1 (134)
+</th>
+<td>2025-10-08
+</td>
+<td>
+<ul><li>Added 2 new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/000_-Ain_Soph_Aur-" title="000 -Ain Soph Aur-">000 -Ain Soph Aur-</a></li>
+<li><a href="https://phigros.fandom.com/wiki/So_laggy!_(feat._Uzumaki)" title="So laggy! (feat. Uzumaki)">So laggy! (feat. Uzumaki)</a></li></ul></li>
+<li>Made modifications to the AT chart of <a href="https://phigros.fandom.com/wiki/QZKago_Requiem" title="QZKago Requiem">QZKago Requiem</a></li></ul>
+</td></tr>
+<tr>
+<th>3.16.0 (133)
+</th>
+<td>2025-09-17
+</td>
+<td>
+<ul><li>Added <a href="https://phigros.fandom.com/wiki/Songs#Extra_-_maimai_Collection" title="Songs">Extra - maimai Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/%E3%82%A2%E3%83%B3%E3%83%93%E3%83%90%E3%83%AC%E3%83%B3%E3%82%B9" title="アンビバレンス">アンビバレンス</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Komplexe" title="Komplexe">Komplexe</a></li>
+<li><a href="https://phigros.fandom.com/wiki/S%C3%B8lips" title="Sølips">sølips</a></li>
+<li><a href="https://phigros.fandom.com/wiki/QZKago_Requiem" title="QZKago Requiem">QZKago Requiem</a></li></ul></li>
+<li>Made modifications to the AT chart of <a href="https://phigros.fandom.com/wiki/Der_Richter" title="Der Richter">Der Richter</a></li></ul>
+</td></tr>
+<tr>
 <th>3.15.1 (132)
 </th>
 <td>2025-08-28
