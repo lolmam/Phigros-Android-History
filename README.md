@@ -21,15 +21,15 @@ For license and attribution info check [NOTICE.md](NOTICE.md)
 
 ## Archive Progress
 
-**Total versions released:** 128  
-**Versions found:** 119  
+**Total versions released:** 130  
+**Versions found:** 121  
 **Versions missing:** 9  
 *(If you have any of them, feel free to contact me so I can add them to this archive.)*
 
 **Missing versions:**  
 `1.2.1, 1.2.2, 1.2.3, 1.2.5, 1.5.3, 1.5.5, 2.4.1, 2.4.2, 2.5.0`
 
-![92.9%](https://progress-bar.xyz/92/?style=neo-glass&title=Completion&width=300)
+![93%](https://progress-bar.xyz/93/?style=neo-glass&title=Completion&width=300)
 
 ## Versions Table
 You can find a list of all available versions along with their supported platforms in the [Versions Table](Versions.md).
@@ -40,7 +40,7 @@ For instructions on how to install check [How to Install](Install.md).
 The full changelog for each version is available in the [Changelog](Changelog.md).
 
 ## Notes
-1. **Version 3.17.0.1 (136)** is the latest version **"31/Oct/2025"**.
+1. **Version 3.18.1 (138)** is the latest version **"17/Dec/2025"**.
 2. The game updates around every **Wednesday at (09:00 AM UTC)**.
 3. **"G"** is for Google Play versions, **"T"** is for TapTap versions, and **NA** for versions that **don't** work (APK is available but missing OBB or it doesn't install or launch).
 4. Google Play versions **(G)** and TapTap versions **(T)** are **not compatible** with each other due to differences in their digital signatures.

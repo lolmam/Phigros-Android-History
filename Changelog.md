@@ -18,6 +18,36 @@ This table and any use of it (including in the website versions) remains under t
 <th width="70%">Changelog
 </th></tr>
 <tr>
+<th>3.18.1 (138)
+</th>
+<td>2025-12-17
+</td>
+<td>
+<ul><li>Added 2 new songs to <a href="https://phigros.fandom.com/wiki/Songs#Single_Collection" title="Songs">Single Collection</a>
+<ul><li><a href="https://phigros.fandom.com/wiki/Locomotive" title="Locomotive">Locomotive</a></li>
+<li><a href="https://phigros.fandom.com/wiki/%E6%9C%80%E9%AB%98%E5%82%91%E4%BD%9C" title="最高傑作">最高傑作</a></li></ul></li>
+<li>Made modifications to the AT chart of <a href="https://phigros.fandom.com/wiki/Hydra" title="Hydra">Hydra</a> and IN chart of <a href="https://phigros.fandom.com/wiki/BANGING_STRIKE" title="BANGING STRIKE">BANGING STRIKE</a></li>
+<li>Fixed video playback issues</li>
+<li>Disabled VSync to resolve frame rate halves on some devices</li>
+<li>Fixed oversized note display on some devices</li>
+<li>Other bug fixes and improvements</li></ul>
+</td></tr>
+<tr>
+<th>3.18.0 (137)
+</th>
+<td>2025-11-19
+</td>
+<td>
+<ul><li>Added Extra - CYTUS II Collection
+<ul><li><a href="https://phigros.fandom.com/wiki/The_Whole_Rest" title="The Whole Rest">The Whole Rest</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Cristalisia" title="Cristalisia">Cristalisia</a></li>
+<li><a href="https://phigros.fandom.com/wiki/Hydra" title="Hydra">Hydra</a></li></ul></li>
+<li>Replaced the illustration for <a href="https://phigros.fandom.com/wiki/Aphrodite%27s_Child_(short_ver.)" title="Aphrodite's Child (short ver.)">Aphrodite's Child (short ver.)</a></li>
+<li>Made modifications to the HD chart of <a href="https://phigros.fandom.com/wiki/Xep%2Bion" title="Xep+ion">Xep+ion</a> and AT chart of <a href="https://phigros.fandom.com/wiki/PANIC_PARADISE" title="PANIC PARADISE">PANIC PARADISE</a></li>
+<li>Update Unity version to 2022</li>
+<li>Other bug fixes and improvements</li></ul>
+</td></tr>
+<tr>
 <th>3.17.0.1 (136)
 </th>
 <td>2025-10-31

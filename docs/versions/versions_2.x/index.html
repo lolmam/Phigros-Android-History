@@ -1191,8 +1191,93 @@
     <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" style="max-width: 1em; max-height:1em; margin-left: .2em;">
     <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA" style="max-width: 1em; max-height:1em; margin-left: .2em;">
   </footer>
+    <div id="license-popup" class="license-popup hidden">
+  <div class="license-popup-content highlight">
+    <h2>DISCLAIMER</h2>
+
+    <div class="license-text">
+      <p><strong>"Phigros"</strong> is a game developed and owned by Pigeon Games. This archive is a fan made project and is not affiliated with, endorsed by, or officially connected to Pigeon Games or the Phigros development team.</p>
+
+      <p>By choosing to download, install, or use any of the provided files, you accept full responsibility for any outcomes. Although care has been taken to ensure the files are clean and safe, we are not responsible for any problems, errors, or damage that might occur as a result of using them.</p>
+
+      <p>ALL APK files and other materials available here are provided for personal use only, such as backup, educational reference, or preservation. These files are offered as is, with no guarantees about how well they work or whether they will function properly on every device or system.</p>
+
+      <p>For license and attribution info check <a href="../../notice/">NOTICE</a>.</p>
+    </div>
+
+    <div class="license-buttons">
+      <button id="agree" class="btn">Agree</button>
+      <button id="close-popup" class="btn alt">Disagree</button>
+    </div>
+  </div>
+</div>
 </body>
 </html>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  const popup = document.getElementById("license-popup");
+  const agree = document.getElementById("agree");
+  const closeBtn = document.getElementById("close-popup");
+
+  function setCookie(name, value, days) {
+    const expires = new Date(Date.now() + days * 864e5).toUTCString();
+    document.cookie = `${name}=${value}; expires=${expires}; path=/; SameSite=Lax`;
+  }
+
+  function getCookie(name) {
+    return document.cookie
+      .split("; ")
+      .find(c => c.startsWith(name + "="))
+      ?.split("=")[1];
+  }
+
+  let pendingURL = null;
+
+  const buttons = document.querySelectorAll(".btn, .btn.alt");
+
+  buttons.forEach(el => {
+    el.addEventListener("click", e => {
+      if (el.classList.contains("btn-unavailable")) return;
+
+      if (getCookie("licenseAccepted")) {
+        return;
+      }
+
+      e.preventDefault();
+      pendingURL = el.href;
+
+      popup.classList.remove("hidden");
+      document.body.classList.add("body-locked");
+    });
+  });
+
+  agree.addEventListener("click", () => {
+    setCookie("licenseAccepted", "true", 365);
+
+    popup.classList.add("hidden");
+    document.body.classList.remove("body-locked");
+
+    if (pendingURL) {
+      const a = document.createElement("a");
+      a.href = pendingURL;
+      a.download = "";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      pendingURL = null;
+    }
+  });
+
+  closeBtn.addEventListener("click", () => {
+    popup.classList.add("hidden");
+    document.body.classList.remove("body-locked");
+    pendingURL = null;
+  });
+  
+});
+</script>
 
 <script>
     function toggleSubmenu(e) {

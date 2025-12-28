@@ -657,5 +657,15 @@ Full Changelog is [Here](Changelog.md)
 			<td>3.17.0.1</td>
 			<td>Google Play</td>
 		</tr>
+		<tr>
+			<td>137</td>
+			<td>3.18.0</td>
+			<td>Google Play</td>
+		</tr>
+		<tr>
+			<td>138</td>
+			<td>3.18.1</td>
+			<td>Google Play</td>
+		</tr>
 	</tbody>
 </table>
